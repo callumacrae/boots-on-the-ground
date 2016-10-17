@@ -1,0 +1,35 @@
+{
+  "name": "boots-on-the-ground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callumacrae/boots-on-the-ground.git"
+  },
+  "author": "Callum Macrae <callum@macr.ae>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callumacrae/boots-on-the-ground/issues"
+  },
+  "homepage": "https://github.com/callumacrae/boots-on-the-ground#readme",
+  "dependencies": {
+    "chroma-js": "^1.2.1",
+    "gulp-sourcemaps": "^2.1.1",
+    "leaflet": "^1.0.1",
+    "topojson": "^1.6.27",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.17.3",
+    "browserify": "^13.1.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-load-plugins": "^1.3.0"
+  }
+}
