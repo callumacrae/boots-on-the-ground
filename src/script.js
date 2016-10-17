@@ -33,13 +33,13 @@ Promise.all([ mapDataRequest, warDataRequest ])
 
 		topoLayer.eachLayer(function (layer) {
 			const inWars = warData.filter(function (war) {
-				return war.countries.includes(layer.feature.id);
+				return war.nations.includes(layer.feature.id);
 			});
 
 			const countriesAffected = {};
 
 			inWars.forEach(function (war) {
-				war.countries.forEach(function (country) {
+				war.nations.forEach(function (country) {
 					// Don't include self
 					if (country === layer.feature.id) {
 						return;
