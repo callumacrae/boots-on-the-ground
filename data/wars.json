@@ -1,0 +1,5120 @@
+[
+  {
+    "name": "Eastern Ukraine War",
+    "years": {
+      "start": 2014,
+      "end": 2015
+    },
+    "deaths": 4353,
+    "nations": [
+      {
+        "code": "UP",
+        "name": "Ukraine"
+      },
+      {
+        "code": "RS",
+        "name": "Russia"
+      }
+    ]
+  },
+  {
+    "name": "Syrian civil war",
+    "years": {
+      "start": 2011,
+      "end": 2015
+    },
+    "deaths": 119017,
+    "nations": [
+      {
+        "code": "SY",
+        "name": "Syria"
+      }
+    ]
+  },
+  {
+    "name": "South Sudan Civil War",
+    "years": {
+      "start": 2011,
+      "end": 2015
+    },
+    "deaths": 2940,
+    "nations": [
+      {
+        "code": "OD",
+        "name": "South Sudan"
+      }
+    ]
+  },
+  {
+    "name": "Libyan Civil War",
+    "years": {
+      "start": 2011,
+      "end": 2015
+    },
+    "deaths": 2252,
+    "nations": [
+      {
+        "code": "LY",
+        "name": "Libya"
+      }
+    ]
+  },
+  {
+    "name": "Nigerian Govt vs Boko Haram",
+    "years": {
+      "start": 2009,
+      "end": 2015
+    },
+    "deaths": 7791,
+    "nations": [
+      {
+        "code": "NI",
+        "name": "Nigeria"
+      }
+    ]
+  },
+  {
+    "name": "Yemeni Civil War",
+    "years": {
+      "start": 2009,
+      "end": 2015
+    },
+    "deaths": 5981,
+    "nations": [
+      {
+        "code": "YM",
+        "name": "Yemen"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "SA",
+        "name": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "name": "Waziristan conflict",
+    "years": {
+      "start": 2007,
+      "end": 2015
+    },
+    "deaths": 25469,
+    "nations": [
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      },
+      {
+        "code": "AF",
+        "name": "Afghanistan"
+      }
+    ]
+  },
+  {
+    "name": "Mexican Drug War",
+    "years": {
+      "start": 2006,
+      "end": 2015
+    },
+    "nations": [
+      {
+        "code": "MX",
+        "name": "Mexico"
+      }
+    ]
+  },
+  {
+    "name": "Iraqi Insurgency",
+    "years": {
+      "start": 2004,
+      "end": 2015
+    },
+    "deaths": 32908,
+    "nations": [
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "AS",
+        "name": "Australia"
+      },
+      {
+        "code": "KS",
+        "name": "South Korea"
+      }
+    ]
+  },
+  {
+    "name": "Afghanistan war",
+    "years": {
+      "start": 2001,
+      "end": 2015
+    },
+    "deaths": 70581,
+    "nations": [
+      {
+        "code": "AF",
+        "name": "Afghanistan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "AL",
+        "name": "Albania"
+      },
+      {
+        "code": "TC",
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "UP",
+        "name": "Ukraine"
+      },
+      {
+        "code": "TU",
+        "name": "Turkey"
+      },
+      {
+        "code": "TN",
+        "name": "Tonga"
+      },
+      {
+        "code": "SW",
+        "name": "Sweden"
+      },
+      {
+        "code": "SP",
+        "name": "Spain"
+      },
+      {
+        "code": "SI",
+        "name": "Slovenia"
+      },
+      {
+        "code": "LO",
+        "name": "Slovakia"
+      },
+      {
+        "code": "SN",
+        "name": "Singapore"
+      },
+      {
+        "code": "RO",
+        "name": "Romania"
+      },
+      {
+        "code": "PO",
+        "name": "Portugal"
+      },
+      {
+        "code": "PL",
+        "name": "Poland"
+      },
+      {
+        "code": "NO",
+        "name": "Norway"
+      },
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "code": "MW",
+        "name": "Montenegro"
+      },
+      {
+        "code": "MG",
+        "name": "Mongolia"
+      },
+      {
+        "code": "MY",
+        "name": "Malaysia"
+      },
+      {
+        "code": "LU",
+        "name": "Luxembourg"
+      },
+      {
+        "code": "LH",
+        "name": "Lithuania"
+      },
+      {
+        "code": "LG",
+        "name": "Latvia"
+      },
+      {
+        "code": "KS",
+        "name": "South Korea"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "EI",
+        "name": "Ireland"
+      },
+      {
+        "code": "IC",
+        "name": "Iceland"
+      },
+      {
+        "code": "HU",
+        "name": "Hungary"
+      },
+      {
+        "code": "GR",
+        "name": "Greece"
+      },
+      {
+        "code": "GM",
+        "name": "Germany"
+      },
+      {
+        "code": "GG",
+        "name": "Georgia"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "MK",
+        "name": "Macedonia"
+      },
+      {
+        "code": "FI",
+        "name": "Finland"
+      },
+      {
+        "code": "EN",
+        "name": "Estonia"
+      },
+      {
+        "code": "ES",
+        "name": "El Salvador"
+      },
+      {
+        "code": "DA",
+        "name": "Denmark"
+      },
+      {
+        "code": "EZ",
+        "name": "Czech Republic"
+      },
+      {
+        "code": "HR",
+        "name": "Croatia"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "BU",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "BK",
+        "name": "Bosnia and Herzegovina"
+      },
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "AJ",
+        "name": "Azerbaijan"
+      },
+      {
+        "code": "AU",
+        "name": "Austria"
+      },
+      {
+        "code": "AS",
+        "name": "Australia"
+      },
+      {
+        "code": "AM",
+        "name": "Armenia"
+      },
+      {
+        "code": "BA",
+        "name": "Bahrain"
+      }
+    ]
+  },
+  {
+    "name": "Turkey Gov vs Kurdistan Guerilla (PPK)  ",
+    "years": {
+      "start": 1984,
+      "end": 2015
+    },
+    "deaths": 27450,
+    "nations": [
+      {
+        "code": "TU",
+        "name": "Turkey"
+      }
+    ]
+  },
+  {
+    "name": "Sudan Government vs Militias",
+    "years": {
+      "start": 1983,
+      "end": 2015
+    },
+    "deaths": 71060,
+    "nations": [
+      {
+        "code": "SU",
+        "name": "Sudan"
+      }
+    ]
+  },
+  {
+    "name": "Somalia Civil War",
+    "years": {
+      "start": 1982,
+      "end": 2015
+    },
+    "deaths": 38885,
+    "nations": [
+      {
+        "code": "SO",
+        "name": "Somalia"
+      }
+    ]
+  },
+  {
+    "name": "Russia vs Chechnyan Secessionists and the Caucasus Emirate",
+    "years": {
+      "start": 1994,
+      "end": 2014
+    },
+    "deaths": 20512,
+    "nations": [
+      {
+        "code": "RS",
+        "name": "Russia"
+      }
+    ]
+  },
+  {
+    "name": "Algeria Govt vs Islamic rebels, GIA, AIS, AQIM ",
+    "years": {
+      "start": 1991,
+      "end": 2014
+    },
+    "deaths": 18592,
+    "nations": [
+      {
+        "code": "AG",
+        "name": "Algeria"
+      }
+    ]
+  },
+  {
+    "name": "Indian Govt vs Maoist Guerillas",
+    "years": {
+      "start": 1991,
+      "end": 2014
+    },
+    "deaths": 5354,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ]
+  },
+  {
+    "name": "Northern Mali Conflict",
+    "years": {
+      "start": 1990,
+      "end": 2014
+    },
+    "deaths": 1813,
+    "nations": [
+      {
+        "code": "ML",
+        "name": "Mali"
+      }
+    ]
+  },
+  {
+    "name": "Nagorno-Karabakh War ",
+    "years": {
+      "start": 1990,
+      "end": 2014
+    },
+    "deaths": 5133,
+    "nations": [
+      {
+        "code": "AJ",
+        "name": "Azerbaijan"
+      },
+      {
+        "code": "AM",
+        "name": "Armenia"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Indian-Pakistani Dispute and Intrastate Insurgency in Kashmir",
+    "years": {
+      "start": 1984,
+      "end": 2014
+    },
+    "deaths": 18486,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      }
+    ]
+  },
+  {
+    "name": "Ethiopian Govt vs Ogadeni Rebels - WSLF/ONLF/AIAI",
+    "years": {
+      "start": 1976,
+      "end": 2014
+    },
+    "deaths": 22508,
+    "nations": [
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      {
+        "code": "SO",
+        "name": "Somalia"
+      },
+      {
+        "code": "CU",
+        "name": "Cuba"
+      }
+    ]
+  },
+  {
+    "name": "Philippines Govt vs Mindanao Guerillas",
+    "years": {
+      "start": 1970,
+      "end": 2014
+    },
+    "deaths": 17095,
+    "nations": [
+      {
+        "code": "RP",
+        "name": "Philippines"
+      }
+    ]
+  },
+  {
+    "name": "Philippine Government vs CPP Guerrilla",
+    "years": {
+      "start": 1969,
+      "end": 2014
+    },
+    "deaths": 24739,
+    "nations": [
+      {
+        "code": "RP",
+        "name": "Philippines"
+      }
+    ]
+  },
+  {
+    "name": "Colombia Govt vs Guerillas Farc and ELN",
+    "years": {
+      "start": 1964,
+      "end": 2014
+    },
+    "deaths": 22160,
+    "nations": [
+      {
+        "code": "CO",
+        "name": "Colombia"
+      }
+    ]
+  },
+  {
+    "name": "Burmese Government vs Separatist Guerillas",
+    "years": {
+      "start": 1949,
+      "end": 2014
+    },
+    "deaths": 47285,
+    "nations": [
+      {
+        "code": "BM",
+        "name": "Myanmar (Burma)"
+      }
+    ]
+  },
+  {
+    "name": "Israel vs Palestine",
+    "years": {
+      "start": 1949,
+      "end": 2014
+    },
+    "deaths": 14246,
+    "nations": [
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "GZ",
+        "name": "Palestinian Authority"
+      }
+    ]
+  },
+  {
+    "name": "Sectarian Conflict in the Central African Republic",
+    "years": {
+      "start": 2012,
+      "end": 2013
+    },
+    "deaths": 360,
+    "nations": [
+      {
+        "code": "CT",
+        "name": "Central African Republic"
+      }
+    ]
+  },
+  {
+    "name": "Lou Nuer vs Murle (Jonglei conflict)",
+    "years": {
+      "start": 2006,
+      "end": 2013
+    },
+    "nations": [
+      {
+        "code": "OD",
+        "name": "South Sudan"
+      },
+      {
+        "code": "SU",
+        "name": "Sudan"
+      }
+    ]
+  },
+  {
+    "name": "Kivu Conflict",
+    "years": {
+      "start": 2006,
+      "end": 2013
+    },
+    "deaths": 5453,
+    "nations": [
+      {
+        "code": "CG",
+        "name": "Democratic Republic of the Congo"
+      },
+      {
+        "code": "RW",
+        "name": "Rwanda"
+      }
+    ]
+  },
+  {
+    "name": "al-Qaida vs USA and allies",
+    "years": {
+      "start": 2001,
+      "end": 2013
+    },
+    "deaths": 4392,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "SA",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "SP",
+        "name": "Spain"
+      },
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      }
+    ]
+  },
+  {
+    "name": "Uganda Civil War ",
+    "years": {
+      "start": 1980,
+      "end": 2013
+    },
+    "deaths": 118894,
+    "nations": [
+      {
+        "code": "UG",
+        "name": "Uganda"
+      },
+      {
+        "code": "TZ",
+        "name": "Tanzania"
+      },
+      {
+        "code": "SU",
+        "name": "Sudan"
+      }
+    ]
+  },
+  {
+    "name": "Mozambique Govt vs RENAMO and FRELIMO",
+    "years": {
+      "start": 1977,
+      "end": 2013
+    },
+    "deaths": 114488,
+    "nations": [
+      {
+        "code": "MZ",
+        "name": "Mozambique"
+      }
+    ]
+  },
+  {
+    "name": "Ethiopia vs Oromia rebels (OLF)",
+    "years": {
+      "start": 1977,
+      "end": 2013
+    },
+    "deaths": 2320,
+    "nations": [
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      }
+    ]
+  },
+  {
+    "name": "Tajikistan Govt vs Opposition",
+    "years": {
+      "start": 1992,
+      "end": 2011
+    },
+    "deaths": 9049,
+    "nations": [
+      {
+        "code": "TI",
+        "name": "Tajikistan"
+      }
+    ]
+  },
+  {
+    "name": "Senegal Civil War",
+    "years": {
+      "start": 1990,
+      "end": 2011
+    },
+    "deaths": 1373,
+    "nations": [
+      {
+        "code": "SG",
+        "name": "Senegal"
+      }
+    ]
+  },
+  {
+    "name": "Iran vs rebel groups (MEK,PJAK etc)",
+    "years": {
+      "start": 1979,
+      "end": 2011
+    },
+    "deaths": 5015,
+    "nations": [
+      {
+        "code": "IR",
+        "name": "Iran"
+      }
+    ]
+  },
+  {
+    "name": "Chad Civil War ",
+    "years": {
+      "start": 1966,
+      "end": 2010
+    },
+    "deaths": 34769,
+    "nations": [
+      {
+        "code": "CD",
+        "name": "Chad"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "LY",
+        "name": "Libya"
+      }
+    ]
+  },
+  {
+    "name": "Peruvian Gvt vs Sendero Luminoso and MRTA ",
+    "years": {
+      "start": 1965,
+      "end": 2010
+    },
+    "deaths": 16536,
+    "nations": [
+      {
+        "code": "PE",
+        "name": "Peru"
+      }
+    ]
+  },
+  {
+    "name": "Sri Lankan Govt vs Tamil Militants (LTTE)",
+    "years": {
+      "start": 1984,
+      "end": 2009
+    },
+    "deaths": 70766,
+    "nations": [
+      {
+        "code": "CE",
+        "name": "Sri Lanka"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ]
+  },
+  {
+    "name": "Burundi Civil War",
+    "years": {
+      "start": 1991,
+      "end": 2008
+    },
+    "deaths": 8589,
+    "nations": [
+      {
+        "code": "BY",
+        "name": "Burundi"
+      }
+    ]
+  },
+  {
+    "name": "Nepal Civil War",
+    "years": {
+      "start": 1996,
+      "end": 2006
+    },
+    "deaths": 9916,
+    "nations": [
+      {
+        "code": "NP",
+        "name": "Nepal"
+      }
+    ]
+  },
+  {
+    "name": "Southern Lebanon War",
+    "years": {
+      "start": 1990,
+      "end": 2006
+    },
+    "deaths": 1530,
+    "nations": [
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "LE",
+        "name": "Lebanon"
+      }
+    ]
+  },
+  {
+    "name": "Indonesia Gvt vs Aceh Liberation movement ",
+    "years": {
+      "start": 1990,
+      "end": 2005
+    },
+    "deaths": 2768,
+    "nations": [
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      }
+    ]
+  },
+  {
+    "name": "Civil War in C�te d Ivoire ",
+    "years": {
+      "start": 2002,
+      "end": 2004
+    },
+    "deaths": 810,
+    "nations": [
+      {
+        "code": "IV",
+        "name": "Cote d'Ivoire"
+      }
+    ]
+  },
+  {
+    "name": "Ituri Conflict",
+    "years": {
+      "start": 1999,
+      "end": 2004
+    },
+    "nations": [
+      {
+        "code": "CG",
+        "name": "Democratic Republic of the Congo"
+      }
+    ]
+  },
+  {
+    "name": "Iraq vs US led coalition",
+    "years": {
+      "start": 2003,
+      "end": 2003
+    },
+    "deaths": 7927,
+    "nations": [
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "AU",
+        "name": "Austria"
+      },
+      {
+        "code": "PL",
+        "name": "Poland"
+      }
+    ]
+  },
+  {
+    "name": "First and Second Congo Wars",
+    "years": {
+      "start": 1996,
+      "end": 2003
+    },
+    "deaths": 18095,
+    "nations": [
+      {
+        "code": "CG",
+        "name": "Democratic Republic of the Congo"
+      },
+      {
+        "code": "RW",
+        "name": "Rwanda"
+      },
+      {
+        "code": "UG",
+        "name": "Uganda"
+      },
+      {
+        "code": "AO",
+        "name": "Angola"
+      },
+      {
+        "code": "ZI",
+        "name": "Zimbabwe"
+      },
+      {
+        "code": "WA",
+        "name": "Namibia"
+      },
+      {
+        "code": "CD",
+        "name": "Chad"
+      }
+    ]
+  },
+  {
+    "name": "Liberia Civil War",
+    "years": {
+      "start": 1989,
+      "end": 2003
+    },
+    "deaths": 3051,
+    "nations": [
+      {
+        "code": "LI",
+        "name": "Liberia"
+      }
+    ]
+  },
+  {
+    "name": "Congo Brazzaville Civil War",
+    "years": {
+      "start": 1993,
+      "end": 2002
+    },
+    "deaths": 14176,
+    "nations": [
+      {
+        "code": "CF",
+        "name": "Congo"
+      },
+      {
+        "code": "AO",
+        "name": "Angola"
+      }
+    ]
+  },
+  {
+    "name": "Angolan Gvt vs UNITA Guerilla",
+    "years": {
+      "start": 1975,
+      "end": 2002
+    },
+    "deaths": 112569,
+    "nations": [
+      {
+        "code": "AO",
+        "name": "Angola"
+      },
+      {
+        "code": "CU",
+        "name": "Cuba"
+      },
+      {
+        "code": "WA",
+        "name": "Namibia"
+      },
+      {
+        "code": "SF",
+        "name": "South Africa"
+      },
+      {
+        "code": "CG",
+        "name": "Democratic Republic of the Congo"
+      }
+    ]
+  },
+  {
+    "name": "Sierra Leone Civil War",
+    "years": {
+      "start": 1991,
+      "end": 2001
+    },
+    "deaths": 10577,
+    "nations": [
+      {
+        "code": "SL",
+        "name": "Sierra Leone"
+      }
+    ]
+  },
+  {
+    "name": "Eritrea vs Ethiopia",
+    "years": {
+      "start": 2000,
+      "end": 2000
+    },
+    "deaths": 98192,
+    "nations": [
+      {
+        "code": "ER",
+        "name": "Eritrea"
+      },
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      }
+    ]
+  },
+  {
+    "name": "Afghanistan Civil War",
+    "years": {
+      "start": 1978,
+      "end": 2000
+    },
+    "deaths": 538130,
+    "nations": [
+      {
+        "code": "AF",
+        "name": "Afghanistan"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Yugoslavia vs NATO Forces and UCK Guerilla",
+    "years": {
+      "start": 1998,
+      "end": 1999
+    },
+    "deaths": 2621,
+    "nations": [
+      {
+        "code": "SR",
+        "name": "Serbia"
+      },
+      {
+        "code": "KV",
+        "name": "Kosovo"
+      },
+      {
+        "code": "YU",
+        "name": "Yugoslavia"
+      }
+    ]
+  },
+  {
+    "name": "Indonesian Govt vs Fretilin - East Timor ",
+    "years": {
+      "start": 1975,
+      "end": 1999
+    },
+    "deaths": 75146,
+    "nations": [
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      },
+      {
+        "code": "TE",
+        "name": "East Timor"
+      }
+    ]
+  },
+  {
+    "name": "Cambodian Govt vs Khmer Rouge",
+    "years": {
+      "start": 1979,
+      "end": 1998
+    },
+    "deaths": 86812,
+    "nations": [
+      {
+        "code": "CB",
+        "name": "Cambodia"
+      },
+      {
+        "code": "VN",
+        "name": ""
+      }
+    ]
+  },
+  {
+    "name": "Northern Ireland, The Troubles",
+    "years": {
+      "start": 1971,
+      "end": 1998
+    },
+    "deaths": 2978,
+    "nations": [
+      {
+        "code": "EI",
+        "name": "Ireland"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Hunde and allies vs Hutu, Banyarwanda",
+    "years": {
+      "start": 1993,
+      "end": 1996
+    },
+    "nations": [
+      {
+        "code": "CG",
+        "name": "Democratic Republic of the Congo"
+      }
+    ]
+  },
+  {
+    "name": "Iraq vs Kurdistan (KDP/PUK)",
+    "years": {
+      "start": 1982,
+      "end": 1996
+    },
+    "deaths": 18682,
+    "nations": [
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      }
+    ]
+  },
+  {
+    "name": "Iraq Government vs SCIRI",
+    "years": {
+      "start": 1982,
+      "end": 1996
+    },
+    "deaths": 1165,
+    "nations": [
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      }
+    ]
+  },
+  {
+    "name": "Iranian Govt vs KDPI ",
+    "years": {
+      "start": 1966,
+      "end": 1996
+    },
+    "deaths": 2618,
+    "nations": [
+      {
+        "code": "IR",
+        "name": "Iran"
+      }
+    ]
+  },
+  {
+    "name": "Bosnian Govt vs Serbian and Croatian Insurgents ",
+    "years": {
+      "start": 1992,
+      "end": 1995
+    },
+    "deaths": 16232,
+    "nations": [
+      {
+        "code": "BK",
+        "name": "Bosnia and Herzegovina"
+      },
+      {
+        "code": "SR",
+        "name": "Serbia"
+      }
+    ]
+  },
+  {
+    "name": "Croatia vs Serbian Irregulars, Rep. Krajina",
+    "years": {
+      "start": 1992,
+      "end": 1995
+    },
+    "deaths": 1329,
+    "nations": [
+      {
+        "code": "SR",
+        "name": "Serbia"
+      },
+      {
+        "code": "HR",
+        "name": "Croatia"
+      }
+    ]
+  },
+  {
+    "name": "Guatemalan Civil War",
+    "years": {
+      "start": 1965,
+      "end": 1995
+    },
+    "deaths": 43200,
+    "nations": [
+      {
+        "code": "GT",
+        "name": "Guatemala"
+      }
+    ]
+  },
+  {
+    "name": "North Yemen vs Secessionists ",
+    "years": {
+      "start": 1994,
+      "end": 1994
+    },
+    "deaths": 1489,
+    "nations": [
+      {
+        "code": "YM",
+        "name": "Yemen"
+      }
+    ]
+  },
+  {
+    "name": "Rwanda Civil War (Hutus vs Tutsis)   ",
+    "years": {
+      "start": 1990,
+      "end": 1994
+    },
+    "deaths": 2773,
+    "nations": [
+      {
+        "code": "RW",
+        "name": "Rwanda"
+      },
+      {
+        "code": "BY",
+        "name": "Burundi"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "CG",
+        "name": "Democratic Republic of the Congo"
+      }
+    ]
+  },
+  {
+    "name": "Burmese Govt vs Communist Guerillas  ",
+    "years": {
+      "start": 1948,
+      "end": 1994
+    },
+    "deaths": 17700,
+    "nations": [
+      {
+        "code": "BM",
+        "name": "Myanmar (Burma)"
+      }
+    ]
+  },
+  {
+    "name": "Georgian Civil War",
+    "years": {
+      "start": 1992,
+      "end": 1993
+    },
+    "deaths": 2624,
+    "nations": [
+      {
+        "code": "GG",
+        "name": "Georgia"
+      }
+    ]
+  },
+  {
+    "name": "Indian Govt vs Sikh insurgents",
+    "years": {
+      "start": 1983,
+      "end": 1993
+    },
+    "deaths": 13203,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ]
+  },
+  {
+    "name": "Serbian Govt. vs Croatian irregulars",
+    "years": {
+      "start": 1991,
+      "end": 1991
+    },
+    "deaths": 3933,
+    "nations": [
+      {
+        "code": "SR",
+        "name": "Serbia"
+      }
+    ]
+  },
+  {
+    "name": "First Gulf War",
+    "years": {
+      "start": 1990,
+      "end": 1991
+    },
+    "deaths": 22848,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "KU",
+        "name": "Kuwait"
+      },
+      {
+        "code": "SA",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "RP",
+        "name": "Philippines"
+      },
+      {
+        "code": "AR",
+        "name": "Argentina"
+      }
+    ]
+  },
+  {
+    "name": "El Salvador Gvt vs FMLN Guerrillas",
+    "years": {
+      "start": 1979,
+      "end": 1991
+    },
+    "deaths": 51561,
+    "nations": [
+      {
+        "code": "ES",
+        "name": "El Salvador"
+      }
+    ]
+  },
+  {
+    "name": "Ethiopian Government vs EPRDF",
+    "years": {
+      "start": 1976,
+      "end": 1991
+    },
+    "deaths": 54908,
+    "nations": [
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      }
+    ]
+  },
+  {
+    "name": "Ethiopia vs Eritrean Separatists ELF/EPLF ",
+    "years": {
+      "start": 1964,
+      "end": 1991
+    },
+    "deaths": 168510,
+    "nations": [
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      {
+        "code": "ER",
+        "name": "Eritrea"
+      }
+    ]
+  },
+  {
+    "name": "Nicaragua Govt vs Contras ",
+    "years": {
+      "start": 1981,
+      "end": 1990
+    },
+    "deaths": 29965,
+    "nations": [
+      {
+        "code": "NU",
+        "name": "Nicaragua"
+      }
+    ]
+  },
+  {
+    "name": "Lebanese Civil War ",
+    "years": {
+      "start": 1975,
+      "end": 1990
+    },
+    "deaths": 131104,
+    "nations": [
+      {
+        "code": "LE",
+        "name": "Lebanon"
+      },
+      {
+        "code": "SY",
+        "name": "Syria"
+      },
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Sri Lanka Govt vs JVP",
+    "years": {
+      "start": 1971,
+      "end": 1990
+    },
+    "deaths": 1709,
+    "nations": [
+      {
+        "code": "CE",
+        "name": "Sri Lanka"
+      }
+    ]
+  },
+  {
+    "name": "Romanian Revolution",
+    "years": {
+      "start": 1989,
+      "end": 1989
+    },
+    "deaths": 909,
+    "nations": [
+      {
+        "code": "RO",
+        "name": "Romania"
+      }
+    ]
+  },
+  {
+    "name": "Panama Coup and US Invasion",
+    "years": {
+      "start": 1989,
+      "end": 1989
+    },
+    "deaths": 920,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "PM",
+        "name": "Panama"
+      }
+    ]
+  },
+  {
+    "name": "Western Sahara War ",
+    "years": {
+      "start": 1975,
+      "end": 1989
+    },
+    "deaths": 12687,
+    "nations": [
+      {
+        "code": "MO",
+        "name": "Morocco"
+      },
+      {
+        "code": "WI",
+        "name": "Western Sahara"
+      },
+      {
+        "code": "MR",
+        "name": "Mauritania"
+      }
+    ]
+  },
+  {
+    "name": "South Africa vs ANC",
+    "years": {
+      "start": 1981,
+      "end": 1988
+    },
+    "deaths": 4087,
+    "nations": [
+      {
+        "code": "SF",
+        "name": "South Africa"
+      }
+    ]
+  },
+  {
+    "name": "Iran vs Iraq",
+    "years": {
+      "start": 1980,
+      "end": 1988
+    },
+    "deaths": 644500,
+    "nations": [
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      },
+      {
+        "code": "IR",
+        "name": "Iran"
+      }
+    ]
+  },
+  {
+    "name": "Sino-Vietnamese War ",
+    "years": {
+      "start": 1978,
+      "end": 1988
+    },
+    "deaths": 47046,
+    "nations": [
+      {
+        "code": "VM",
+        "name": "Vietnam"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Namibia vs South Africa",
+    "years": {
+      "start": 1966,
+      "end": 1988
+    },
+    "deaths": 10000,
+    "nations": [
+      {
+        "code": "WA",
+        "name": "Namibia"
+      },
+      {
+        "code": "SF",
+        "name": "South Africa"
+      }
+    ]
+  },
+  {
+    "name": "Chadian-Lybian War (Aouzou Strip)",
+    "years": {
+      "start": 1987,
+      "end": 1987
+    },
+    "deaths": 8500,
+    "nations": [
+      {
+        "code": "LY",
+        "name": "Libya"
+      },
+      {
+        "code": "CD",
+        "name": "Chad"
+      }
+    ]
+  },
+  {
+    "name": "South Yemen Coup",
+    "years": {
+      "start": 1986,
+      "end": 1986
+    },
+    "deaths": 10000,
+    "nations": [
+      {
+        "code": "YM",
+        "name": "Yemen"
+      }
+    ]
+  },
+  {
+    "name": "Falklands War",
+    "years": {
+      "start": 1982,
+      "end": 1982
+    },
+    "deaths": 964,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "AR",
+        "name": "Argentina"
+      },
+      {
+        "code": "FK",
+        "name": "Islas Malvinas / Falkland Islands"
+      }
+    ]
+  },
+  {
+    "name": "Syrian Govt vs Muslim Brotherhood",
+    "years": {
+      "start": 1979,
+      "end": 1982
+    },
+    "deaths": 2075,
+    "nations": [
+      {
+        "code": "SY",
+        "name": "Syria"
+      }
+    ]
+  },
+  {
+    "name": "Thai Govt vs CPT",
+    "years": {
+      "start": 1974,
+      "end": 1982
+    },
+    "deaths": 3425,
+    "nations": [
+      {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    ]
+  },
+  {
+    "name": "Nicaraguan Gvt vs Sandinistas",
+    "years": {
+      "start": 1978,
+      "end": 1979
+    },
+    "deaths": 10000,
+    "nations": [
+      {
+        "code": "NU",
+        "name": "Nicaragua"
+      }
+    ]
+  },
+  {
+    "name": "Uganda vs Tanzania ",
+    "years": {
+      "start": 1978,
+      "end": 1979
+    },
+    "deaths": 3847,
+    "nations": [
+      {
+        "code": "UG",
+        "name": "Uganda"
+      },
+      {
+        "code": "TZ",
+        "name": "Tanzania"
+      }
+    ]
+  },
+  {
+    "name": "Iranian Revolution",
+    "years": {
+      "start": 1978,
+      "end": 1979
+    },
+    "deaths": 1100,
+    "nations": [
+      {
+        "code": "IR",
+        "name": "Iran"
+      }
+    ]
+  },
+  {
+    "name": "Rhodesian Government vs ZANU,ZAPU,PF",
+    "years": {
+      "start": 1967,
+      "end": 1979
+    },
+    "deaths": 27080,
+    "nations": [
+      {
+        "code": "ZI",
+        "name": "Zimbabwe"
+      }
+    ]
+  },
+  {
+    "name": "Vietnam vs Cambodia (Kampuchea) ",
+    "years": {
+      "start": 1978,
+      "end": 1978
+    },
+    "deaths": 32500,
+    "nations": [
+      {
+        "code": "VM",
+        "name": "Vietnam"
+      },
+      {
+        "code": "CB",
+        "name": "Cambodia"
+      }
+    ]
+  },
+  {
+    "name": "Indonesian annexation of West Papua",
+    "years": {
+      "start": 1962,
+      "end": 1978
+    },
+    "deaths": 8700,
+    "nations": [
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      }
+    ]
+  },
+  {
+    "name": "Argentina: Civil War and Dirty War",
+    "years": {
+      "start": 1974,
+      "end": 1977
+    },
+    "deaths": 4677,
+    "nations": [
+      {
+        "code": "AR",
+        "name": "Argentina"
+      }
+    ]
+  },
+  {
+    "name": "Balochistan Insurgency",
+    "years": {
+      "start": 1974,
+      "end": 1977
+    },
+    "deaths": 8600,
+    "nations": [
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      }
+    ]
+  },
+  {
+    "name": "Chinese Cultural Revolution",
+    "years": {
+      "start": 1967,
+      "end": 1976
+    },
+    "deaths": 50000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Cambodian Civil War ",
+    "years": {
+      "start": 1967,
+      "end": 1975
+    },
+    "deaths": 250000,
+    "nations": [
+      {
+        "code": "CB",
+        "name": "Cambodia"
+      },
+      {
+        "code": "VM",
+        "name": "Vietnam"
+      }
+    ]
+  },
+  {
+    "name": "Vietnam War ",
+    "years": {
+      "start": 1965,
+      "end": 1975
+    },
+    "deaths": 1461050,
+    "nations": [
+      {
+        "code": "VM",
+        "name": "Vietnam"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "AS",
+        "name": "Australia"
+      },
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    ]
+  },
+  {
+    "name": "Angolan War of Independence",
+    "years": {
+      "start": 1961,
+      "end": 1975
+    },
+    "deaths": 79000,
+    "nations": [
+      {
+        "code": "PO",
+        "name": "Portugal"
+      },
+      {
+        "code": "AO",
+        "name": "Angola"
+      }
+    ]
+  },
+  {
+    "name": "Turko Cypriot War ",
+    "years": {
+      "start": 1974,
+      "end": 1974
+    },
+    "deaths": 5000,
+    "nations": [
+      {
+        "code": "TU",
+        "name": "Turkey"
+      },
+      {
+        "code": "GR",
+        "name": "Greece"
+      },
+      {
+        "code": "CY",
+        "name": "Cyprus"
+      }
+    ]
+  },
+  {
+    "name": "Mozambique War of Independence",
+    "years": {
+      "start": 1964,
+      "end": 1974
+    },
+    "deaths": 13500,
+    "nations": [
+      {
+        "code": "MZ",
+        "name": "Mozambique"
+      },
+      {
+        "code": "PO",
+        "name": "Portugal"
+      }
+    ]
+  },
+  {
+    "name": "Yom Kippur War ",
+    "years": {
+      "start": 1973,
+      "end": 1973
+    },
+    "deaths": 6450,
+    "nations": [
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "EG",
+        "name": "Egypt"
+      },
+      {
+        "code": "SY",
+        "name": "Syria"
+      }
+    ]
+  },
+  {
+    "name": "Chilean MIlitary Coup",
+    "years": {
+      "start": 1973,
+      "end": 1973
+    },
+    "deaths": 2095,
+    "nations": [
+      {
+        "code": "CI",
+        "name": "Chile"
+      }
+    ]
+  },
+  {
+    "name": "Guinea Bissau War of Independence",
+    "years": {
+      "start": 1963,
+      "end": 1973
+    },
+    "deaths": 15000,
+    "nations": [
+      {
+        "code": "PO",
+        "name": "Portugal"
+      },
+      {
+        "code": "PU",
+        "name": "Guinea-Bissau"
+      }
+    ]
+  },
+  {
+    "name": "Laos Civil War",
+    "years": {
+      "start": 1959,
+      "end": 1973
+    },
+    "deaths": 21500,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "LA",
+        "name": "Laos"
+      },
+      {
+        "code": "VN",
+        "name": ""
+      },
+      {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    ]
+  },
+  {
+    "name": "Hutu Rebellion",
+    "years": {
+      "start": 1972,
+      "end": 1972
+    },
+    "deaths": 3000,
+    "nations": [
+      {
+        "code": "BY",
+        "name": "Burundi"
+      }
+    ]
+  },
+  {
+    "name": "Sudan Government vs Insurgents",
+    "years": {
+      "start": 1963,
+      "end": 1972
+    },
+    "deaths": 10000,
+    "nations": [
+      {
+        "code": "SU",
+        "name": "Sudan"
+      }
+    ]
+  },
+  {
+    "name": "Bangladesh War ",
+    "years": {
+      "start": 1971,
+      "end": 1971
+    },
+    "deaths": 50000,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      },
+      {
+        "code": "BG",
+        "name": "Bangladesh"
+      }
+    ]
+  },
+  {
+    "name": "Second Kashmir War",
+    "years": {
+      "start": 1964,
+      "end": 1971
+    },
+    "deaths": 16327,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      }
+    ]
+  },
+  {
+    "name": "Israel vs Egypt",
+    "years": {
+      "start": 1969,
+      "end": 1970
+    },
+    "deaths": 5520,
+    "nations": [
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "EG",
+        "name": "Egypt"
+      }
+    ]
+  },
+  {
+    "name": "Nigerian Civil War ",
+    "years": {
+      "start": 1967,
+      "end": 1970
+    },
+    "deaths": 75000,
+    "nations": [
+      {
+        "code": "NI",
+        "name": "Nigeria"
+      }
+    ]
+  },
+  {
+    "name": "North Yemen Civil War",
+    "years": {
+      "start": 1962,
+      "end": 1970
+    },
+    "deaths": 10000,
+    "nations": [
+      {
+        "code": "YM",
+        "name": "Yemen"
+      }
+    ]
+  },
+  {
+    "name": "First Kurdish�Iraqi War",
+    "years": {
+      "start": 1961,
+      "end": 1970
+    },
+    "deaths": 6600,
+    "nations": [
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      }
+    ]
+  },
+  {
+    "name": "Football War Honduras vs El Salvador ",
+    "years": {
+      "start": 1969,
+      "end": 1969
+    },
+    "deaths": 2107,
+    "nations": [
+      {
+        "code": "HO",
+        "name": "Honduras"
+      },
+      {
+        "code": "ES",
+        "name": "El Salvador"
+      }
+    ]
+  },
+  {
+    "name": "The Six Day War ",
+    "years": {
+      "start": 1967,
+      "end": 1967
+    },
+    "deaths": 5413,
+    "nations": [
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "JO",
+        "name": "Jordan"
+      },
+      {
+        "code": "EG",
+        "name": "Egypt"
+      },
+      {
+        "code": "SY",
+        "name": "Syria"
+      }
+    ]
+  },
+  {
+    "name": "Dominican Republic Coup  ",
+    "years": {
+      "start": 1965,
+      "end": 1965
+    },
+    "deaths": 4027,
+    "nations": [
+      {
+        "code": "DR",
+        "name": "Dominican Republic"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Congo Crisis",
+    "years": {
+      "start": 1960,
+      "end": 1965
+    },
+    "deaths": 7175,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "CF",
+        "name": "Congo"
+      },
+      {
+        "code": "CG",
+        "name": "Democratic Republic of the Congo"
+      },
+      {
+        "code": "BE",
+        "name": "Belgium"
+      }
+    ]
+  },
+  {
+    "name": "First Rwanda Civil War",
+    "years": {
+      "start": 1963,
+      "end": 1964
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "RW",
+        "name": "Rwanda"
+      }
+    ]
+  },
+  {
+    "name": "Vietnam Civil War",
+    "years": {
+      "start": 1955,
+      "end": 1964
+    },
+    "deaths": 164923,
+    "nations": [
+      {
+        "code": "VM",
+        "name": "Vietnam"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Sino-Indian War",
+    "years": {
+      "start": 1962,
+      "end": 1962
+    },
+    "deaths": 2105,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ]
+  },
+  {
+    "name": "Algerian War of Independece",
+    "years": {
+      "start": 1954,
+      "end": 1962
+    },
+    "deaths": 184886,
+    "nations": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "AG",
+        "name": "Algeria"
+      }
+    ]
+  },
+  {
+    "name": "Bizerte Crisis",
+    "years": {
+      "start": 1961,
+      "end": 1961
+    },
+    "deaths": 1394,
+    "nations": [
+      {
+        "code": "TS",
+        "name": "Tunisia"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ]
+  },
+  {
+    "name": "Cameroonian Govt vs UPC",
+    "years": {
+      "start": 1960,
+      "end": 1961
+    },
+    "deaths": 60000,
+    "nations": [
+      {
+        "code": "CM",
+        "name": "Cameroon"
+      }
+    ]
+  },
+  {
+    "name": "Indonesia vs PRRI, Permesta and Darul Islam",
+    "years": {
+      "start": 1953,
+      "end": 1961
+    },
+    "deaths": 33965,
+    "nations": [
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Cuban Revolution",
+    "years": {
+      "start": 1953,
+      "end": 1961
+    },
+    "deaths": 1205,
+    "nations": [
+      {
+        "code": "CU",
+        "name": "Cuba"
+      }
+    ]
+  },
+  {
+    "name": "1959 Mosul uprising in Iraq",
+    "years": {
+      "start": 1959,
+      "end": 1959
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      }
+    ]
+  },
+  {
+    "name": "Cameroon War of Independence",
+    "years": {
+      "start": 1957,
+      "end": 1959
+    },
+    "deaths": 11700,
+    "nations": [
+      {
+        "code": "CM",
+        "name": "Cameroon"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ]
+  },
+  {
+    "name": "Tibetan Uprising",
+    "years": {
+      "start": 1956,
+      "end": 1959
+    },
+    "deaths": 16000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "First Lebanese War",
+    "years": {
+      "start": 1958,
+      "end": 1958
+    },
+    "deaths": 1400,
+    "nations": [
+      {
+        "code": "LE",
+        "name": "Lebanon"
+      }
+    ]
+  },
+  {
+    "name": "La Violencia ",
+    "years": {
+      "start": 1948,
+      "end": 1958
+    },
+    "deaths": 29800,
+    "nations": [
+      {
+        "code": "CO",
+        "name": "Colombia"
+      }
+    ]
+  },
+  {
+    "name": "Malayan Civil War",
+    "years": {
+      "start": 1948,
+      "end": 1957
+    },
+    "deaths": 10845,
+    "nations": [
+      {
+        "code": "MY",
+        "name": "Malaysia"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "AS",
+        "name": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Sinai War",
+    "years": {
+      "start": 1956,
+      "end": 1956
+    },
+    "deaths": 2142,
+    "nations": [
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "EG",
+        "name": "Egypt"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Soviet Invasion of Hungary",
+    "years": {
+      "start": 1956,
+      "end": 1956
+    },
+    "deaths": 3171,
+    "nations": [
+      {
+        "code": "HU",
+        "name": "Hungary"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Kenya, Mau-Mau vs UK",
+    "years": {
+      "start": 1954,
+      "end": 1956
+    },
+    "deaths": 12955,
+    "nations": [
+      {
+        "code": "KE",
+        "name": "Kenya"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Tunisian war of Independence",
+    "years": {
+      "start": 1953,
+      "end": 1956
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "TS",
+        "name": "Tunisia"
+      }
+    ]
+  },
+  {
+    "name": "Moroccan War of Independence",
+    "years": {
+      "start": 1953,
+      "end": 1956
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "MO",
+        "name": "Morocco"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "SP",
+        "name": "Spain"
+      }
+    ]
+  },
+  {
+    "name": "Taiwan Strait Crisis",
+    "years": {
+      "start": 1949,
+      "end": 1954
+    },
+    "deaths": 10025,
+    "nations": [
+      {
+        "code": "TW",
+        "name": "Taiwan"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Philippines, Huk rebels vs Govt",
+    "years": {
+      "start": 1946,
+      "end": 1954
+    },
+    "deaths": 9695,
+    "nations": [
+      {
+        "code": "RP",
+        "name": "Philippines"
+      }
+    ]
+  },
+  {
+    "name": "First Indochina War Comm. vs France",
+    "years": {
+      "start": 1946,
+      "end": 1954
+    },
+    "deaths": 377523,
+    "nations": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "VM",
+        "name": "Vietnam"
+      }
+    ]
+  },
+  {
+    "name": "Korean War",
+    "years": {
+      "start": 1949,
+      "end": 1953
+    },
+    "deaths": 995025,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "KN",
+        "name": "North Korea"
+      },
+      {
+        "code": "KS",
+        "name": "South Korea"
+      },
+      {
+        "code": "AS",
+        "name": "Australia"
+      }
+    ]
+  },
+  {
+    "name": "Bolivian Revolution",
+    "years": {
+      "start": 1952,
+      "end": 1952
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "BL",
+        "name": "Bolivia"
+      }
+    ]
+  },
+  {
+    "name": "Indian Govt vs Communist Rebels CPI",
+    "years": {
+      "start": 1948,
+      "end": 1951
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ]
+  },
+  {
+    "name": "Soviet Union vs Baltic Partisans (��Forest Brethren��)",
+    "years": {
+      "start": 1945,
+      "end": 1951
+    },
+    "deaths": 32400,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "EN",
+        "name": "Estonia"
+      },
+      {
+        "code": "LG",
+        "name": "Latvia"
+      },
+      {
+        "code": "LH",
+        "name": "Lithuania"
+      }
+    ]
+  },
+  {
+    "name": "Indonesian Govt vs Republic of South Moluccas",
+    "years": {
+      "start": 1950,
+      "end": 1950
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      }
+    ]
+  },
+  {
+    "name": "Third Sino-Tibetan War",
+    "years": {
+      "start": 1950,
+      "end": 1950
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Cheju Rebellion in South Korea",
+    "years": {
+      "start": 1948,
+      "end": 1949
+    },
+    "deaths": 17000,
+    "nations": [
+      {
+        "code": "KS",
+        "name": "South Korea"
+      }
+    ]
+  },
+  {
+    "name": "Arab-Israeli War",
+    "years": {
+      "start": 1948,
+      "end": 1949
+    },
+    "deaths": 21111,
+    "nations": [
+      {
+        "code": "IS",
+        "name": "Israel"
+      },
+      {
+        "code": "EG",
+        "name": "Egypt"
+      },
+      {
+        "code": "LY",
+        "name": "Libya"
+      },
+      {
+        "code": "JO",
+        "name": "Jordan"
+      },
+      {
+        "code": "SY",
+        "name": "Syria"
+      },
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      }
+    ]
+  },
+  {
+    "name": "Greece Civil War",
+    "years": {
+      "start": 1946,
+      "end": 1949
+    },
+    "deaths": 154000,
+    "nations": [
+      {
+        "code": "GR",
+        "name": "Greece"
+      }
+    ]
+  },
+  {
+    "name": "Chinese Civil War",
+    "years": {
+      "start": 1946,
+      "end": 1949
+    },
+    "deaths": 1200000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Costa Rican Civil War",
+    "years": {
+      "start": 1948,
+      "end": 1948
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "CS",
+        "name": "Costa Rica"
+      }
+    ]
+  },
+  {
+    "name": "First Kashmir War",
+    "years": {
+      "start": 1948,
+      "end": 1948
+    },
+    "deaths": 7500,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      }
+    ]
+  },
+  {
+    "name": "Yemeni Imamate War",
+    "years": {
+      "start": 1948,
+      "end": 1948
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "YM",
+        "name": "Yemen"
+      }
+    ]
+  },
+  {
+    "name": "Civil War in Mandatory Palestine",
+    "years": {
+      "start": 1947,
+      "end": 1948
+    },
+    "deaths": 4009,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Telangana Rebellion and Indo-Hyderabad War",
+    "years": {
+      "start": 1947,
+      "end": 1948
+    },
+    "deaths": 4360,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      }
+    ]
+  },
+  {
+    "name": "Indian Partition Communal Violence",
+    "years": {
+      "start": 1947,
+      "end": 1948
+    },
+    "deaths": 200000,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      }
+    ]
+  },
+  {
+    "name": "Taiwanese revolt",
+    "years": {
+      "start": 1947,
+      "end": 1947
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "TW",
+        "name": "Taiwan"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Madagascar Rebellion",
+    "years": {
+      "start": 1947,
+      "end": 1947
+    },
+    "deaths": 6952,
+    "nations": [
+      {
+        "code": "MA",
+        "name": "Madagascar"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ]
+  },
+  {
+    "name": "Paraguayan Gvt vs  Rebels",
+    "years": {
+      "start": 1947,
+      "end": 1947
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "PA",
+        "name": "Paraguay"
+      }
+    ]
+  },
+  {
+    "name": "Poland and Soviet Union vs Ukrainian Partisans",
+    "years": {
+      "start": 1945,
+      "end": 1947
+    },
+    "deaths": 59700,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "PL",
+        "name": "Poland"
+      }
+    ]
+  },
+  {
+    "name": "Indonesian Independence",
+    "years": {
+      "start": 1945,
+      "end": 1946
+    },
+    "deaths": 5400,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "code": "ID",
+        "name": "Indonesia"
+      }
+    ]
+  },
+  {
+    "name": "World War II ",
+    "years": {
+      "start": 1939,
+      "end": 1945
+    },
+    "deaths": 50000000,
+    "nations": [
+      {
+        "code": "AS",
+        "name": "Australia"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "GM",
+        "name": "Germany"
+      },
+      {
+        "code": "DA",
+        "name": "Denmark"
+      },
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "NO",
+        "name": "Norway"
+      },
+      {
+        "code": "FI",
+        "name": "Finland"
+      },
+      {
+        "code": "SP",
+        "name": "Spain"
+      },
+      {
+        "code": "PL",
+        "name": "Poland"
+      },
+      {
+        "code": "AU",
+        "name": "Austria"
+      },
+      {
+        "code": "SP",
+        "name": "Spain"
+      },
+      {
+        "code": "GR",
+        "name": "Greece"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "SF",
+        "name": "South Africa"
+      },
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "EZ",
+        "name": "Czech Republic"
+      },
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      {
+        "code": "MX",
+        "name": "Mexico"
+      },
+      {
+        "code": "HU",
+        "name": "Hungary"
+      },
+      {
+        "code": "RO",
+        "name": "Romania"
+      },
+      {
+        "code": "BU",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "FI",
+        "name": "Finland"
+      },
+      {
+        "code": "TH",
+        "name": "Thailand"
+      },
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      },
+      {
+        "code": "CS",
+        "name": "Costa Rica"
+      },
+      {
+        "code": "YU",
+        "name": "Yugoslavia"
+      }
+    ]
+  },
+  {
+    "name": "Franco-Thai War",
+    "years": {
+      "start": 1940,
+      "end": 1941
+    },
+    "deaths": 1400,
+    "nations": [
+      {
+        "code": "TH",
+        "name": "Thailand"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Third Sino-Japanese War",
+    "years": {
+      "start": 1937,
+      "end": 1941
+    },
+    "deaths": 1000000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "JA",
+        "name": "Japan"
+      }
+    ]
+  },
+  {
+    "name": "The Winter War in Finland",
+    "years": {
+      "start": 1939,
+      "end": 1940
+    },
+    "deaths": 151798,
+    "nations": [
+      {
+        "code": "FI",
+        "name": "Finland"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "The battle of Khalkhin Gol",
+    "years": {
+      "start": 1939,
+      "end": 1939
+    },
+    "deaths": 28000,
+    "nations": [
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": " Arab revolt in Mandatory Palestine",
+    "years": {
+      "start": 1936,
+      "end": 1939
+    },
+    "deaths": 2576,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Second British-Waziristan",
+    "years": {
+      "start": 1936,
+      "end": 1939
+    },
+    "deaths": 10200,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Spanish Civil War ",
+    "years": {
+      "start": 1936,
+      "end": 1939
+    },
+    "deaths": 466300,
+    "nations": [
+      {
+        "code": "SP",
+        "name": "Spain"
+      },
+      {
+        "code": "GM",
+        "name": "Germany"
+      },
+      {
+        "code": "PT",
+        "name": ""
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ]
+  },
+  {
+    "name": "Changkufeng Incident",
+    "years": {
+      "start": 1938,
+      "end": 1938
+    },
+    "deaths": 1726,
+    "nations": [
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Italo-Ethiopian War",
+    "years": {
+      "start": 1935,
+      "end": 1936
+    },
+    "deaths": 20000,
+    "nations": [
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ]
+  },
+  {
+    "name": "Chaco War",
+    "years": {
+      "start": 1932,
+      "end": 1935
+    },
+    "deaths": 92661,
+    "nations": [
+      {
+        "code": "PA",
+        "name": "Paraguay"
+      },
+      {
+        "code": "BL",
+        "name": "Bolivia"
+      }
+    ]
+  },
+  {
+    "name": "Communists vs Koumintang",
+    "years": {
+      "start": 1930,
+      "end": 1935
+    },
+    "deaths": 500000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Spanish Socialists vs Govt",
+    "years": {
+      "start": 1934,
+      "end": 1934
+    },
+    "deaths": 1335,
+    "nations": [
+      {
+        "code": "SP",
+        "name": "Spain"
+      }
+    ]
+  },
+  {
+    "name": "Saudi-Yemeni War",
+    "years": {
+      "start": 1934,
+      "end": 1934
+    },
+    "deaths": 2100,
+    "nations": [
+      {
+        "code": "SA",
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "YM",
+        "name": "Yemen"
+      }
+    ]
+  },
+  {
+    "name": "Xinjiang Muslim Revolt",
+    "years": {
+      "start": 1931,
+      "end": 1934
+    },
+    "deaths": 21000,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Manchurian War",
+    "years": {
+      "start": 1931,
+      "end": 1933
+    },
+    "deaths": 60000,
+    "nations": [
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Aprista Revolt in Peru",
+    "years": {
+      "start": 1932,
+      "end": 1932
+    },
+    "deaths": 1100,
+    "nations": [
+      {
+        "code": "PE",
+        "name": "Peru"
+      }
+    ]
+  },
+  {
+    "name": "El Salvador, La Matanza",
+    "years": {
+      "start": 1932,
+      "end": 1932
+    },
+    "deaths": 2600,
+    "nations": [
+      {
+        "code": "ES",
+        "name": "El Salvador"
+      }
+    ]
+  },
+  {
+    "name": "Brazilian Revolt",
+    "years": {
+      "start": 1932,
+      "end": 1932
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "BR",
+        "name": "Brazil"
+      }
+    ]
+  },
+  {
+    "name": "Saya San Rebellion",
+    "years": {
+      "start": 1930,
+      "end": 1932
+    },
+    "deaths": 1140,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "BM",
+        "name": "Myanmar (Burma)"
+      }
+    ]
+  },
+  {
+    "name": "Senussi Orden  vs Italy",
+    "years": {
+      "start": 1920,
+      "end": 1932
+    },
+    "deaths": 40000,
+    "nations": [
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "LY",
+        "name": "Libya"
+      }
+    ]
+  },
+  {
+    "name": "The Y�n B�i Uprising",
+    "years": {
+      "start": 1930,
+      "end": 1931
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "VM",
+        "name": "Vietnam"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ]
+  },
+  {
+    "name": "Ikhwan Revolt",
+    "years": {
+      "start": 1929,
+      "end": 1930
+    },
+    "deaths": 5500,
+    "nations": [
+      {
+        "code": "SA",
+        "name": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "name": "Kuomintang vs warlords",
+    "years": {
+      "start": 1929,
+      "end": 1930
+    },
+    "deaths": 75000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Sino-Soviet war",
+    "years": {
+      "start": 1929,
+      "end": 1929
+    },
+    "deaths": 3200,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Escobar Rebellion",
+    "years": {
+      "start": 1929,
+      "end": 1929
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "MX",
+        "name": "Mexico"
+      }
+    ]
+  },
+  {
+    "name": "Second Afghan Anti-Reform War",
+    "years": {
+      "start": 1928,
+      "end": 1929
+    },
+    "deaths": 15000,
+    "nations": [
+      {
+        "code": "AF",
+        "name": "Afghanistan"
+      }
+    ]
+  },
+  {
+    "name": "The Cristero War",
+    "years": {
+      "start": 1926,
+      "end": 1929
+    },
+    "deaths": 10000,
+    "nations": [
+      {
+        "code": "MX",
+        "name": "Mexico"
+      }
+    ]
+  },
+  {
+    "name": "Kuomintang vs Gansu Rebels",
+    "years": {
+      "start": 1928,
+      "end": 1928
+    },
+    "deaths": 200000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Northern Expedition",
+    "years": {
+      "start": 1926,
+      "end": 1928
+    },
+    "deaths": 126500,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Druze revolt",
+    "years": {
+      "start": 1925,
+      "end": 1927
+    },
+    "deaths": 6000,
+    "nations": [
+      {
+        "code": "SY",
+        "name": "Syria"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ]
+  },
+  {
+    "name": "Third Chinese Warlord War",
+    "years": {
+      "start": 1925,
+      "end": 1926
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Third Rif War",
+    "years": {
+      "start": 1920,
+      "end": 1926
+    },
+    "deaths": 70000,
+    "nations": [
+      {
+        "code": "SP",
+        "name": "Spain"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ]
+  },
+  {
+    "name": "Afghan rebels vs govt",
+    "years": {
+      "start": 1924,
+      "end": 1925
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "AF",
+        "name": "Afghanistan"
+      }
+    ]
+  },
+  {
+    "name": "Nejd-Hejaz Wars",
+    "years": {
+      "start": 1919,
+      "end": 1925
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "SA",
+        "name": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "name": "Honduras Coup",
+    "years": {
+      "start": 1924,
+      "end": 1924
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "HO",
+        "name": "Honduras"
+      }
+    ]
+  },
+  {
+    "name": "Soviet-Turkestan War",
+    "years": {
+      "start": 1921,
+      "end": 1923
+    },
+    "deaths": 3500,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Second Chinese Warlord War",
+    "years": {
+      "start": 1922,
+      "end": 1922
+    },
+    "deaths": 20000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Ireland freestaters vs Irregulars ",
+    "years": {
+      "start": 1921,
+      "end": 1922
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "EI",
+        "name": "Ireland"
+      }
+    ]
+  },
+  {
+    "name": "Moplah Riots in Kerala",
+    "years": {
+      "start": 1921,
+      "end": 1922
+    },
+    "deaths": 2450,
+    "nations": [
+      {
+        "code": "IN",
+        "name": "India"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Blackshirts vs Leftists",
+    "years": {
+      "start": 1920,
+      "end": 1922
+    },
+    "deaths": 3300,
+    "nations": [
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ]
+  },
+  {
+    "name": "Second Greco Turkish War",
+    "years": {
+      "start": 1919,
+      "end": 1922
+    },
+    "deaths": 50000,
+    "nations": [
+      {
+        "code": "GR",
+        "name": "Greece"
+      },
+      {
+        "code": "TU",
+        "name": "Turkey"
+      }
+    ]
+  },
+  {
+    "name": "Russian Revolution and Civil War",
+    "years": {
+      "start": 1917,
+      "end": 1922
+    },
+    "deaths": 802225,
+    "nations": [
+      {
+        "code": "RS",
+        "name": "Russia"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Kronstadt Rebellion",
+    "years": {
+      "start": 1921,
+      "end": 1921
+    },
+    "deaths": 2600,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Conquest of Mongolia",
+    "years": {
+      "start": 1920,
+      "end": 1921
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Iraq vs UK",
+    "years": {
+      "start": 1920,
+      "end": 1921
+    },
+    "deaths": 9540,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IZ",
+        "name": "Iraq"
+      }
+    ]
+  },
+  {
+    "name": "Green Rebellion",
+    "years": {
+      "start": 1920,
+      "end": 1921
+    },
+    "deaths": 6700,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      }
+    ]
+  },
+  {
+    "name": "Turkish War of Independence",
+    "years": {
+      "start": 1919,
+      "end": 1921
+    },
+    "deaths": 40000,
+    "nations": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "TU",
+        "name": "Turkey"
+      }
+    ]
+  },
+  {
+    "name": "First Chinese Warlord War",
+    "years": {
+      "start": 1920,
+      "end": 1920
+    },
+    "deaths": 35000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Franco-Syrian war ",
+    "years": {
+      "start": 1920,
+      "end": 1920
+    },
+    "deaths": 3500,
+    "nations": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "SY",
+        "name": "Syria"
+      }
+    ]
+  },
+  {
+    "name": "Lithuanian-Polish War",
+    "years": {
+      "start": 1920,
+      "end": 1920
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "PL",
+        "name": "Poland"
+      },
+      {
+        "code": "LH",
+        "name": "Lithuania"
+      }
+    ]
+  },
+  {
+    "name": "Polish-Soviet War",
+    "years": {
+      "start": 1919,
+      "end": 1920
+    },
+    "deaths": 100000,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "PL",
+        "name": "Poland"
+      }
+    ]
+  },
+  {
+    "name": "Hungary Civil War",
+    "years": {
+      "start": 1919,
+      "end": 1920
+    },
+    "deaths": 1500,
+    "nations": [
+      {
+        "code": "HU",
+        "name": "Hungary"
+      }
+    ]
+  },
+  {
+    "name": "First British-Waziristan War",
+    "years": {
+      "start": 1919,
+      "end": 1920
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "PK",
+        "name": "Pakistan"
+      }
+    ]
+  },
+  {
+    "name": "Latvian Liberation",
+    "years": {
+      "start": 1918,
+      "end": 1920
+    },
+    "deaths": 13246,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "GM",
+        "name": "Germany"
+      },
+      {
+        "code": "LG",
+        "name": "Latvia"
+      },
+      {
+        "code": "EN",
+        "name": "Estonia"
+      }
+    ]
+  },
+  {
+    "name": "Estonian Liberation War",
+    "years": {
+      "start": 1918,
+      "end": 1920
+    },
+    "deaths": 11750,
+    "nations": [
+      {
+        "code": "SJ",
+        "name": "Soviet Union"
+      },
+      {
+        "code": "FI",
+        "name": "Finland"
+      },
+      {
+        "code": "EN",
+        "name": "Estonia"
+      }
+    ]
+  },
+  {
+    "name": "Caco Revolt",
+    "years": {
+      "start": 1918,
+      "end": 1920
+    },
+    "deaths": 2102,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "HA",
+        "name": "Haiti"
+      }
+    ]
+  },
+  {
+    "name": "Mexican Revolution ",
+    "years": {
+      "start": 1910,
+      "end": 1920
+    },
+    "deaths": 125000,
+    "nations": [
+      {
+        "code": "MX",
+        "name": "Mexico"
+      }
+    ]
+  },
+  {
+    "name": "The Dervish State vs Ethiopia, Britain and Italy",
+    "years": {
+      "start": 1899,
+      "end": 1920
+    },
+    "deaths": 6000,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "SO",
+        "name": "Somalia"
+      },
+      {
+        "code": "ET",
+        "name": "Ethiopia"
+      },
+      {
+        "code": "DV",
+        "name": "Dervish State"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ]
+  },
+  {
+    "name": "Sparticist Rising",
+    "years": {
+      "start": 1919,
+      "end": 1919
+    },
+    "deaths": 2170,
+    "nations": [
+      {
+        "code": "GM",
+        "name": "Germany"
+      }
+    ]
+  },
+  {
+    "name": "Hungarian�Romanian War of 1919",
+    "years": {
+      "start": 1919,
+      "end": 1919
+    },
+    "deaths": 11000,
+    "nations": [
+      {
+        "code": "RO",
+        "name": "Romania"
+      },
+      {
+        "code": "HU",
+        "name": "Hungary"
+      }
+    ]
+  },
+  {
+    "name": "Third Anglo-Afghan War",
+    "years": {
+      "start": 1919,
+      "end": 1919
+    },
+    "deaths": 2136,
+    "nations": [
+      {
+        "code": "AF",
+        "name": "Afghanistan"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Second Sino-Tibetan",
+    "years": {
+      "start": 1918,
+      "end": 1918
+    },
+    "deaths": 1500,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Finnish Civil War",
+    "years": {
+      "start": 1918,
+      "end": 1918
+    },
+    "deaths": 15150,
+    "nations": [
+      {
+        "code": "FI",
+        "name": "Finland"
+      }
+    ]
+  },
+  {
+    "name": "Southern China Revolt",
+    "years": {
+      "start": 1915,
+      "end": 1918
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "World War I",
+    "years": {
+      "start": 1914,
+      "end": 1918
+    },
+    "deaths": 10670868,
+    "nations": [
+      {
+        "code": "AS",
+        "name": "Australia"
+      },
+      {
+        "code": "GM",
+        "name": "Germany"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "RS",
+        "name": "Russia"
+      },
+      {
+        "code": "GR",
+        "name": "Greece"
+      },
+      {
+        "code": "HU",
+        "name": "Hungary"
+      },
+      {
+        "code": "TU",
+        "name": "Turkey"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "AU",
+        "name": "Austria"
+      },
+      {
+        "code": "AN",
+        "name": "Andorra"
+      },
+      {
+        "code": "BE",
+        "name": "Belgium"
+      },
+      {
+        "code": "BR",
+        "name": "Brazil"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "CS",
+        "name": "Costa Rica"
+      },
+      {
+        "code": "CU",
+        "name": "Cuba"
+      },
+      {
+        "code": "CS",
+        "name": "Costa Rica"
+      },
+      {
+        "code": "GT",
+        "name": "Guatemala"
+      },
+      {
+        "code": "HA",
+        "name": "Haiti"
+      },
+      {
+        "code": "HO",
+        "name": "Honduras"
+      },
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "LI",
+        "name": "Liberia"
+      },
+      {
+        "code": "MW",
+        "name": "Montenegro"
+      },
+      {
+        "code": "NP",
+        "name": "Nepal"
+      },
+      {
+        "code": "NU",
+        "name": "Nicaragua"
+      },
+      {
+        "code": "PM",
+        "name": "Panama"
+      },
+      {
+        "code": "PO",
+        "name": "Portugal"
+      },
+      {
+        "code": "RO",
+        "name": "Romania"
+      },
+      {
+        "code": "RS",
+        "name": "Russia"
+      },
+      {
+        "code": "SM",
+        "name": "San Marino"
+      },
+      {
+        "code": "SR",
+        "name": "Serbia"
+      },
+      {
+        "code": "TH",
+        "name": "Thailand"
+      },
+      {
+        "code": "CA",
+        "name": "Canada"
+      },
+      {
+        "code": "AS",
+        "name": "Australia"
+      },
+      {
+        "code": "MT",
+        "name": "Malta"
+      },
+      {
+        "code": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "code": "SF",
+        "name": "South Africa"
+      },
+      {
+        "code": "RP",
+        "name": "Philippines"
+      },
+      {
+        "code": "RQ",
+        "name": "Puerto Rico"
+      },
+      {
+        "code": "AJ",
+        "name": "Azerbaijan"
+      },
+      {
+        "code": "BU",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "AH",
+        "name": "Austria-Hungary"
+      },
+      {
+        "code": "DV",
+        "name": "Dervish State"
+      },
+      {
+        "code": "JS",
+        "name": "Jabal Shammar"
+      },
+      {
+        "code": "OE",
+        "name": "Ottoman Empire"
+      }
+    ]
+  },
+  {
+    "name": "Russia-Turkestan",
+    "years": {
+      "start": 1916,
+      "end": 1917
+    },
+    "deaths": 1350,
+    "nations": [
+      {
+        "code": "RU",
+        "name": ""
+      }
+    ]
+  },
+  {
+    "name": "Chinese Govt vs Bai Lang (White Wolf) Rebels",
+    "years": {
+      "start": 1914,
+      "end": 1914
+    },
+    "deaths": 5000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "2nd Balkan War ",
+    "years": {
+      "start": 1913,
+      "end": 1913
+    },
+    "deaths": 60500,
+    "nations": [
+      {
+        "code": "YU",
+        "name": "Yugoslavia"
+      },
+      {
+        "code": "GR",
+        "name": "Greece"
+      },
+      {
+        "code": "BU",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "OE",
+        "name": "Ottoman Empire"
+      },
+      {
+        "code": "RO",
+        "name": "Romania"
+      }
+    ]
+  },
+  {
+    "name": "Kuomintang vs Chinese Army ",
+    "years": {
+      "start": 1913,
+      "end": 1913
+    },
+    "deaths": 5000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Moro Rebellion",
+    "years": {
+      "start": 1913,
+      "end": 1913
+    },
+    "deaths": 15050,
+    "nations": [
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "1st Balkan War",
+    "years": {
+      "start": 1912,
+      "end": 1913
+    },
+    "deaths": 82000,
+    "nations": [
+      {
+        "code": "SR",
+        "name": "Serbia"
+      },
+      {
+        "code": "MW",
+        "name": "Montenegro"
+      },
+      {
+        "code": "GR",
+        "name": "Greece"
+      },
+      {
+        "code": "BU",
+        "name": "Bulgaria"
+      },
+      {
+        "code": "MK",
+        "name": "Macedonia"
+      },
+      {
+        "code": "OE",
+        "name": "Ottoman Empire"
+      }
+    ]
+  },
+  {
+    "name": "First Sino-Tibetan War",
+    "years": {
+      "start": 1911,
+      "end": 1912
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Paraguay Coups",
+    "years": {
+      "start": 1911,
+      "end": 1912
+    },
+    "deaths": 5000,
+    "nations": [
+      {
+        "code": "PA",
+        "name": "Paraguay"
+      }
+    ]
+  },
+  {
+    "name": "Italo-Turkish War",
+    "years": {
+      "start": 1911,
+      "end": 1912
+    },
+    "deaths": 20000,
+    "nations": [
+      {
+        "code": "IL",
+        "name": ""
+      },
+      {
+        "code": "OE",
+        "name": "Ottoman Empire"
+      }
+    ]
+  },
+  {
+    "name": "Cuba vs Partido Independiente de Color",
+    "years": {
+      "start": 1911,
+      "end": 1911
+    },
+    "deaths": 1050,
+    "nations": [
+      {
+        "code": "CU",
+        "name": "Cuba"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Chinese Revolution ",
+    "years": {
+      "start": 1911,
+      "end": 1911
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "Asir-Yemen Revolt",
+    "years": {
+      "start": 1910,
+      "end": 1911
+    },
+    "deaths": 9000,
+    "nations": [
+      {
+        "code": "YM",
+        "name": "Yemen"
+      },
+      {
+        "code": "OE",
+        "name": "Ottoman Empire"
+      }
+    ]
+  },
+  {
+    "name": "French Conquest of Wadai Sultanate",
+    "years": {
+      "start": 1909,
+      "end": 1911
+    },
+    "deaths": 12000,
+    "nations": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "CD",
+        "name": "Chad"
+      }
+    ]
+  },
+  {
+    "name": "The second Rif War",
+    "years": {
+      "start": 1909,
+      "end": 1910
+    },
+    "deaths": 10000,
+    "nations": [
+      {
+        "code": "MO",
+        "name": "Morocco"
+      },
+      {
+        "code": "SP",
+        "name": "Spain"
+      }
+    ]
+  },
+  {
+    "name": "Portugese war against Dembos",
+    "years": {
+      "start": 1907,
+      "end": 1910
+    },
+    "deaths": 5100,
+    "nations": [
+      {
+        "code": "PT",
+        "name": ""
+      },
+      {
+        "code": "AO",
+        "name": "Angola"
+      }
+    ]
+  },
+  {
+    "name": "Ma al-�Aynayn�s Anti-Colonial Insurgency ",
+    "years": {
+      "start": 1907,
+      "end": 1910
+    },
+    "deaths": 3150,
+    "nations": [
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "MO",
+        "name": "Morocco"
+      }
+    ]
+  },
+  {
+    "name": "Korean guerilla war against Japanese occupation",
+    "years": {
+      "start": 1907,
+      "end": 1910
+    },
+    "deaths": 17736,
+    "nations": [
+      {
+        "code": "JP",
+        "name": ""
+      },
+      {
+        "code": "KS",
+        "name": "South Korea"
+      }
+    ]
+  },
+  {
+    "name": "Iranian Constitution War",
+    "years": {
+      "start": 1908,
+      "end": 1909
+    },
+    "deaths": 1100,
+    "nations": [
+      {
+        "code": "IR",
+        "name": "Iran"
+      },
+      {
+        "code": "RS",
+        "name": "Russia"
+      }
+    ]
+  },
+  {
+    "name": "Morocco unrest",
+    "years": {
+      "start": 1907,
+      "end": 1908
+    },
+    "deaths": 1400,
+    "nations": [
+      {
+        "code": "MO",
+        "name": "Morocco"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      }
+    ]
+  },
+  {
+    "name": "4th Central American war ",
+    "years": {
+      "start": 1907,
+      "end": 1907
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "HO",
+        "name": "Honduras"
+      },
+      {
+        "code": "ES",
+        "name": "El Salvador"
+      },
+      {
+        "code": "NU",
+        "name": "Nicaragua"
+      }
+    ]
+  },
+  {
+    "name": "Romanian Peasant Revolt",
+    "years": {
+      "start": 1907,
+      "end": 1907
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "RO",
+        "name": "Romania"
+      }
+    ]
+  },
+  {
+    "name": "Dutch-Achinese War",
+    "years": {
+      "start": 1904,
+      "end": 1907
+    },
+    "deaths": 24200,
+    "nations": [
+      {
+        "code": "NL",
+        "name": "Netherlands"
+      }
+    ]
+  },
+  {
+    "name": "Zulu Rebellion",
+    "years": {
+      "start": 1906,
+      "end": 1906
+    },
+    "deaths": 2356,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "name": "Sokoto and UK vs Mahdist Revolt",
+    "years": {
+      "start": 1906,
+      "end": 1906
+    },
+    "deaths": 2080,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "NI",
+        "name": "Nigeria"
+      }
+    ]
+  },
+  {
+    "name": "Third Central American war ",
+    "years": {
+      "start": 1906,
+      "end": 1906
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "HO",
+        "name": "Honduras"
+      },
+      {
+        "code": "ES",
+        "name": "El Salvador"
+      },
+      {
+        "code": "GT",
+        "name": "Guatemala"
+      }
+    ]
+  },
+  {
+    "name": "Russian Revolution 1905 ",
+    "years": {
+      "start": 1905,
+      "end": 1906
+    },
+    "deaths": 1500,
+    "nations": [
+      {
+        "code": "RS",
+        "name": "Russia"
+      }
+    ]
+  },
+  {
+    "name": "Maji Maji revolt",
+    "years": {
+      "start": 1905,
+      "end": 1906
+    },
+    "deaths": 8840,
+    "nations": [
+      {
+        "code": "GM",
+        "name": "Germany"
+      },
+      {
+        "code": "TZ",
+        "name": "Tanzania"
+      }
+    ]
+  },
+  {
+    "name": "Southwest African Revolt",
+    "years": {
+      "start": 1904,
+      "end": 1905
+    },
+    "deaths": 12800,
+    "nations": [
+      {
+        "code": "GM",
+        "name": "Germany"
+      }
+    ]
+  },
+  {
+    "name": "Russo-Japanese war",
+    "years": {
+      "start": 1904,
+      "end": 1905
+    },
+    "deaths": 151831,
+    "nations": [
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "RS",
+        "name": "Russia"
+      }
+    ]
+  },
+  {
+    "name": "Second Yemen Rebellion",
+    "years": {
+      "start": 1904,
+      "end": 1904
+    },
+    "deaths": 30000,
+    "nations": [
+      {
+        "code": "OE",
+        "name": "Ottoman Empire"
+      }
+    ]
+  },
+  {
+    "name": "Uruguay Civil War",
+    "years": {
+      "start": 1904,
+      "end": 1904
+    },
+    "deaths": 1000,
+    "nations": [
+      {
+        "code": "UY",
+        "name": "Uruguay"
+      }
+    ]
+  },
+  {
+    "name": "Uprisings in Colonial Angola",
+    "years": {
+      "start": 1902,
+      "end": 1904
+    },
+    "deaths": 2000,
+    "nations": [
+      {
+        "code": "AO",
+        "name": "Angola"
+      },
+      {
+        "code": "PO",
+        "name": "Portugal"
+      }
+    ]
+  },
+  {
+    "name": "Ilinden Uprising",
+    "years": {
+      "start": 1903,
+      "end": 1903
+    },
+    "deaths": 6330,
+    "nations": [
+      {
+        "code": "OE",
+        "name": "Ottoman Empire"
+      }
+    ]
+  },
+  {
+    "name": "The War of a Thousand Days  ",
+    "years": {
+      "start": 1899,
+      "end": 1903
+    },
+    "deaths": 100000,
+    "nations": [
+      {
+        "code": "CO",
+        "name": "Colombia"
+      }
+    ]
+  },
+  {
+    "name": "Philippine insurrection ",
+    "years": {
+      "start": 1899,
+      "end": 1902
+    },
+    "deaths": 20500,
+    "nations": [
+      {
+        "code": "RP",
+        "name": "Philippines"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      }
+    ]
+  },
+  {
+    "name": "Second Boer war",
+    "years": {
+      "start": 1899,
+      "end": 1902
+    },
+    "deaths": 30800,
+    "nations": [
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "ZR",
+        "name": "Zuid-Afrikaansche Republiek"
+      }
+    ]
+  },
+  {
+    "name": "Sino-Russian War",
+    "years": {
+      "start": 1900,
+      "end": 1900
+    },
+    "deaths": 4000,
+    "nations": [
+      {
+        "code": "RS",
+        "name": "Russia"
+      },
+      {
+        "code": "CH",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "name": "The Boxer Rebellion",
+    "years": {
+      "start": 1900,
+      "end": 1900
+    },
+    "deaths": 3003,
+    "nations": [
+      {
+        "code": "CH",
+        "name": "China"
+      },
+      {
+        "code": "UK",
+        "name": "United Kingdom"
+      },
+      {
+        "code": "JA",
+        "name": "Japan"
+      },
+      {
+        "code": "RS",
+        "name": "Russia"
+      },
+      {
+        "code": "FR",
+        "name": "France"
+      },
+      {
+        "code": "US",
+        "name": "United States"
+      },
+      {
+        "code": "GM",
+        "name": "Germany"
+      },
+      {
+        "code": "IT",
+        "name": "Italy"
+      },
+      {
+        "code": "AH",
+        "name": "Austria-Hungary"
+      }
+    ]
+  }
+]
