@@ -8,11 +8,11 @@
     "deaths": 4353,
     "nations": [
       {
-        "code": "UP",
+        "code": "UA",
         "name": "Ukraine"
       },
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       }
     ]
@@ -40,7 +40,7 @@
     "deaths": 2940,
     "nations": [
       {
-        "code": "OD",
+        "code": "SS",
         "name": "South Sudan"
       }
     ]
@@ -68,7 +68,7 @@
     "deaths": 7791,
     "nations": [
       {
-        "code": "NI",
+        "code": "NG",
         "name": "Nigeria"
       }
     ]
@@ -82,7 +82,7 @@
     "deaths": 5981,
     "nations": [
       {
-        "code": "YM",
+        "code": "YE",
         "name": "Yemen"
       },
       {
@@ -135,7 +135,7 @@
     "deaths": 32908,
     "nations": [
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       },
       {
@@ -143,15 +143,15 @@
         "name": "United States"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       },
       {
-        "code": "KS",
+        "code": "KR",
         "name": "South Korea"
       }
     ]
@@ -173,7 +173,7 @@
         "name": "United States"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -181,27 +181,27 @@
         "name": "Albania"
       },
       {
-        "code": "TC",
+        "code": "AE",
         "name": "United Arab Emirates"
       },
       {
-        "code": "UP",
+        "code": "UA",
         "name": "Ukraine"
       },
       {
-        "code": "TU",
+        "code": "TR",
         "name": "Turkey"
       },
       {
-        "code": "TN",
+        "code": "TO",
         "name": "Tonga"
       },
       {
-        "code": "SW",
+        "code": "SE",
         "name": "Sweden"
       },
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       },
       {
@@ -209,11 +209,11 @@
         "name": "Slovenia"
       },
       {
-        "code": "LO",
+        "code": "SK",
         "name": "Slovakia"
       },
       {
-        "code": "SN",
+        "code": "SG",
         "name": "Singapore"
       },
       {
@@ -221,7 +221,7 @@
         "name": "Romania"
       },
       {
-        "code": "PO",
+        "code": "PT",
         "name": "Portugal"
       },
       {
@@ -241,11 +241,11 @@
         "name": "Netherlands"
       },
       {
-        "code": "MW",
+        "code": "ME",
         "name": "Montenegro"
       },
       {
-        "code": "MG",
+        "code": "MN",
         "name": "Mongolia"
       },
       {
@@ -257,15 +257,15 @@
         "name": "Luxembourg"
       },
       {
-        "code": "LH",
+        "code": "LT",
         "name": "Lithuania"
       },
       {
-        "code": "LG",
+        "code": "LV",
         "name": "Latvia"
       },
       {
-        "code": "KS",
+        "code": "KR",
         "name": "South Korea"
       },
       {
@@ -273,11 +273,11 @@
         "name": "Italy"
       },
       {
-        "code": "EI",
+        "code": "IE",
         "name": "Ireland"
       },
       {
-        "code": "IC",
+        "code": "IS",
         "name": "Iceland"
       },
       {
@@ -289,11 +289,11 @@
         "name": "Greece"
       },
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       },
       {
-        "code": "GG",
+        "code": "GE",
         "name": "Georgia"
       },
       {
@@ -309,19 +309,19 @@
         "name": "Finland"
       },
       {
-        "code": "EN",
+        "code": "EE",
         "name": "Estonia"
       },
       {
-        "code": "ES",
+        "code": "SV",
         "name": "El Salvador"
       },
       {
-        "code": "DA",
+        "code": "DK",
         "name": "Denmark"
       },
       {
-        "code": "EZ",
+        "code": "CZ",
         "name": "Czech Republic"
       },
       {
@@ -333,11 +333,11 @@
         "name": "Canada"
       },
       {
-        "code": "BU",
+        "code": "BG",
         "name": "Bulgaria"
       },
       {
-        "code": "BK",
+        "code": "BA",
         "name": "Bosnia and Herzegovina"
       },
       {
@@ -345,15 +345,15 @@
         "name": "Belgium"
       },
       {
-        "code": "AJ",
+        "code": "AZ",
         "name": "Azerbaijan"
       },
       {
-        "code": "AU",
+        "code": "AT",
         "name": "Austria"
       },
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       },
       {
@@ -361,7 +361,7 @@
         "name": "Armenia"
       },
       {
-        "code": "BA",
+        "code": "BH",
         "name": "Bahrain"
       }
     ]
@@ -375,7 +375,7 @@
     "deaths": 27450,
     "nations": [
       {
-        "code": "TU",
+        "code": "TR",
         "name": "Turkey"
       }
     ]
@@ -389,7 +389,7 @@
     "deaths": 71060,
     "nations": [
       {
-        "code": "SU",
+        "code": "SD",
         "name": "Sudan"
       }
     ]
@@ -417,7 +417,7 @@
     "deaths": 20512,
     "nations": [
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       }
     ]
@@ -431,7 +431,7 @@
     "deaths": 18592,
     "nations": [
       {
-        "code": "AG",
+        "code": "DZ",
         "name": "Algeria"
       }
     ]
@@ -473,7 +473,7 @@
     "deaths": 5133,
     "nations": [
       {
-        "code": "AJ",
+        "code": "AZ",
         "name": "Azerbaijan"
       },
       {
@@ -535,7 +535,7 @@
     "deaths": 17095,
     "nations": [
       {
-        "code": "RP",
+        "code": "PH",
         "name": "Philippines"
       }
     ]
@@ -549,7 +549,7 @@
     "deaths": 24739,
     "nations": [
       {
-        "code": "RP",
+        "code": "PH",
         "name": "Philippines"
       }
     ]
@@ -577,7 +577,7 @@
     "deaths": 47285,
     "nations": [
       {
-        "code": "BM",
+        "code": "MM",
         "name": "Myanmar (Burma)"
       }
     ]
@@ -591,11 +591,11 @@
     "deaths": 14246,
     "nations": [
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
-        "code": "GZ",
+        "code": "PS",
         "name": "Palestinian Authority"
       }
     ]
@@ -609,7 +609,7 @@
     "deaths": 360,
     "nations": [
       {
-        "code": "CT",
+        "code": "CF",
         "name": "Central African Republic"
       }
     ]
@@ -622,11 +622,11 @@
     },
     "nations": [
       {
-        "code": "OD",
+        "code": "SS",
         "name": "South Sudan"
       },
       {
-        "code": "SU",
+        "code": "SD",
         "name": "Sudan"
       }
     ]
@@ -662,7 +662,7 @@
         "name": "United States"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -670,7 +670,7 @@
         "name": "Saudi Arabia"
       },
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       },
       {
@@ -696,7 +696,7 @@
         "name": "Tanzania"
       },
       {
-        "code": "SU",
+        "code": "SD",
         "name": "Sudan"
       }
     ]
@@ -738,7 +738,7 @@
     "deaths": 9049,
     "nations": [
       {
-        "code": "TI",
+        "code": "TJ",
         "name": "Tajikistan"
       }
     ]
@@ -752,7 +752,7 @@
     "deaths": 1373,
     "nations": [
       {
-        "code": "SG",
+        "code": "SN",
         "name": "Senegal"
       }
     ]
@@ -780,7 +780,7 @@
     "deaths": 34769,
     "nations": [
       {
-        "code": "CD",
+        "code": "TD",
         "name": "Chad"
       },
       {
@@ -816,7 +816,7 @@
     "deaths": 70766,
     "nations": [
       {
-        "code": "CE",
+        "code": "LK",
         "name": "Sri Lanka"
       },
       {
@@ -834,7 +834,7 @@
     "deaths": 8589,
     "nations": [
       {
-        "code": "BY",
+        "code": "BI",
         "name": "Burundi"
       }
     ]
@@ -862,11 +862,11 @@
     "deaths": 1530,
     "nations": [
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
-        "code": "LE",
+        "code": "LB",
         "name": "Lebanon"
       }
     ]
@@ -894,7 +894,7 @@
     "deaths": 810,
     "nations": [
       {
-        "code": "IV",
+        "code": "CI",
         "name": "Cote d'Ivoire"
       }
     ]
@@ -921,7 +921,7 @@
     "deaths": 7927,
     "nations": [
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       },
       {
@@ -929,11 +929,11 @@
         "name": "United States"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "AU",
+        "code": "AT",
         "name": "Austria"
       },
       {
@@ -967,15 +967,15 @@
         "name": "Angola"
       },
       {
-        "code": "ZI",
+        "code": "ZW",
         "name": "Zimbabwe"
       },
       {
-        "code": "WA",
+        "code": "NA",
         "name": "Namibia"
       },
       {
-        "code": "CD",
+        "code": "TD",
         "name": "Chad"
       }
     ]
@@ -989,7 +989,7 @@
     "deaths": 3051,
     "nations": [
       {
-        "code": "LI",
+        "code": "LR",
         "name": "Liberia"
       }
     ]
@@ -1003,7 +1003,7 @@
     "deaths": 14176,
     "nations": [
       {
-        "code": "CF",
+        "code": "CG",
         "name": "Congo"
       },
       {
@@ -1029,11 +1029,11 @@
         "name": "Cuba"
       },
       {
-        "code": "WA",
+        "code": "NA",
         "name": "Namibia"
       },
       {
-        "code": "SF",
+        "code": "ZA",
         "name": "South Africa"
       },
       {
@@ -1101,11 +1101,11 @@
     "deaths": 2621,
     "nations": [
       {
-        "code": "SR",
+        "code": "RS",
         "name": "Serbia"
       },
       {
-        "code": "KV",
+        "code": "-99",
         "name": "Kosovo"
       },
       {
@@ -1141,11 +1141,11 @@
     "deaths": 86812,
     "nations": [
       {
-        "code": "CB",
+        "code": "KH",
         "name": "Cambodia"
       },
       {
-        "code": "VN",
+        "code": "idk? was VN",
         "name": ""
       }
     ]
@@ -1159,11 +1159,11 @@
     "deaths": 2978,
     "nations": [
       {
-        "code": "EI",
+        "code": "IE",
         "name": "Ireland"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -1190,7 +1190,7 @@
     "deaths": 18682,
     "nations": [
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       }
     ]
@@ -1204,7 +1204,7 @@
     "deaths": 1165,
     "nations": [
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       }
     ]
@@ -1232,11 +1232,11 @@
     "deaths": 16232,
     "nations": [
       {
-        "code": "BK",
+        "code": "BA",
         "name": "Bosnia and Herzegovina"
       },
       {
-        "code": "SR",
+        "code": "RS",
         "name": "Serbia"
       }
     ]
@@ -1250,7 +1250,7 @@
     "deaths": 1329,
     "nations": [
       {
-        "code": "SR",
+        "code": "RS",
         "name": "Serbia"
       },
       {
@@ -1282,7 +1282,7 @@
     "deaths": 1489,
     "nations": [
       {
-        "code": "YM",
+        "code": "YE",
         "name": "Yemen"
       }
     ]
@@ -1300,7 +1300,7 @@
         "name": "Rwanda"
       },
       {
-        "code": "BY",
+        "code": "BI",
         "name": "Burundi"
       },
       {
@@ -1322,7 +1322,7 @@
     "deaths": 17700,
     "nations": [
       {
-        "code": "BM",
+        "code": "MM",
         "name": "Myanmar (Burma)"
       }
     ]
@@ -1336,7 +1336,7 @@
     "deaths": 2624,
     "nations": [
       {
-        "code": "GG",
+        "code": "GE",
         "name": "Georgia"
       }
     ]
@@ -1364,7 +1364,7 @@
     "deaths": 3933,
     "nations": [
       {
-        "code": "SR",
+        "code": "RS",
         "name": "Serbia"
       }
     ]
@@ -1382,15 +1382,15 @@
         "name": "United States"
       },
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "KU",
+        "code": "KW",
         "name": "Kuwait"
       },
       {
@@ -1398,7 +1398,7 @@
         "name": "Saudi Arabia"
       },
       {
-        "code": "RP",
+        "code": "PH",
         "name": "Philippines"
       },
       {
@@ -1416,7 +1416,7 @@
     "deaths": 51561,
     "nations": [
       {
-        "code": "ES",
+        "code": "SV",
         "name": "El Salvador"
       }
     ]
@@ -1462,7 +1462,7 @@
     "deaths": 29965,
     "nations": [
       {
-        "code": "NU",
+        "code": "NI",
         "name": "Nicaragua"
       }
     ]
@@ -1476,7 +1476,7 @@
     "deaths": 131104,
     "nations": [
       {
-        "code": "LE",
+        "code": "LB",
         "name": "Lebanon"
       },
       {
@@ -1484,7 +1484,7 @@
         "name": "Syria"
       },
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
@@ -1506,7 +1506,7 @@
     "deaths": 1709,
     "nations": [
       {
-        "code": "CE",
+        "code": "LK",
         "name": "Sri Lanka"
       }
     ]
@@ -1538,7 +1538,7 @@
         "name": "United States"
       },
       {
-        "code": "PM",
+        "code": "PA",
         "name": "Panama"
       }
     ]
@@ -1552,11 +1552,11 @@
     "deaths": 12687,
     "nations": [
       {
-        "code": "MO",
+        "code": "MA",
         "name": "Morocco"
       },
       {
-        "code": "WI",
+        "code": "EH",
         "name": "Western Sahara"
       },
       {
@@ -1574,7 +1574,7 @@
     "deaths": 4087,
     "nations": [
       {
-        "code": "SF",
+        "code": "ZA",
         "name": "South Africa"
       }
     ]
@@ -1588,7 +1588,7 @@
     "deaths": 644500,
     "nations": [
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       },
       {
@@ -1606,11 +1606,11 @@
     "deaths": 47046,
     "nations": [
       {
-        "code": "VM",
+        "code": "VN",
         "name": "Vietnam"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -1624,11 +1624,11 @@
     "deaths": 10000,
     "nations": [
       {
-        "code": "WA",
+        "code": "NA",
         "name": "Namibia"
       },
       {
-        "code": "SF",
+        "code": "ZA",
         "name": "South Africa"
       }
     ]
@@ -1646,7 +1646,7 @@
         "name": "Libya"
       },
       {
-        "code": "CD",
+        "code": "TD",
         "name": "Chad"
       }
     ]
@@ -1660,7 +1660,7 @@
     "deaths": 10000,
     "nations": [
       {
-        "code": "YM",
+        "code": "YE",
         "name": "Yemen"
       }
     ]
@@ -1674,7 +1674,7 @@
     "deaths": 964,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -1724,7 +1724,7 @@
     "deaths": 10000,
     "nations": [
       {
-        "code": "NU",
+        "code": "NI",
         "name": "Nicaragua"
       }
     ]
@@ -1770,7 +1770,7 @@
     "deaths": 27080,
     "nations": [
       {
-        "code": "ZI",
+        "code": "ZW",
         "name": "Zimbabwe"
       }
     ]
@@ -1784,11 +1784,11 @@
     "deaths": 32500,
     "nations": [
       {
-        "code": "VM",
+        "code": "VN",
         "name": "Vietnam"
       },
       {
-        "code": "CB",
+        "code": "KH",
         "name": "Cambodia"
       }
     ]
@@ -1848,7 +1848,7 @@
     "deaths": 50000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -1862,11 +1862,11 @@
     "deaths": 250000,
     "nations": [
       {
-        "code": "CB",
+        "code": "KH",
         "name": "Cambodia"
       },
       {
-        "code": "VM",
+        "code": "VN",
         "name": "Vietnam"
       }
     ]
@@ -1880,7 +1880,7 @@
     "deaths": 1461050,
     "nations": [
       {
-        "code": "VM",
+        "code": "VN",
         "name": "Vietnam"
       },
       {
@@ -1888,7 +1888,7 @@
         "name": "United States"
       },
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       },
       {
@@ -1910,7 +1910,7 @@
     "deaths": 79000,
     "nations": [
       {
-        "code": "PO",
+        "code": "PT",
         "name": "Portugal"
       },
       {
@@ -1928,7 +1928,7 @@
     "deaths": 5000,
     "nations": [
       {
-        "code": "TU",
+        "code": "TR",
         "name": "Turkey"
       },
       {
@@ -1954,7 +1954,7 @@
         "name": "Mozambique"
       },
       {
-        "code": "PO",
+        "code": "PT",
         "name": "Portugal"
       }
     ]
@@ -1968,7 +1968,7 @@
     "deaths": 6450,
     "nations": [
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
@@ -1990,7 +1990,7 @@
     "deaths": 2095,
     "nations": [
       {
-        "code": "CI",
+        "code": "CL",
         "name": "Chile"
       }
     ]
@@ -2004,11 +2004,11 @@
     "deaths": 15000,
     "nations": [
       {
-        "code": "PO",
+        "code": "PT",
         "name": "Portugal"
       },
       {
-        "code": "PU",
+        "code": "GW",
         "name": "Guinea-Bissau"
       }
     ]
@@ -2030,7 +2030,7 @@
         "name": "Laos"
       },
       {
-        "code": "VN",
+        "code": "idk? was VN",
         "name": ""
       },
       {
@@ -2048,7 +2048,7 @@
     "deaths": 3000,
     "nations": [
       {
-        "code": "BY",
+        "code": "BI",
         "name": "Burundi"
       }
     ]
@@ -2062,7 +2062,7 @@
     "deaths": 10000,
     "nations": [
       {
-        "code": "SU",
+        "code": "SD",
         "name": "Sudan"
       }
     ]
@@ -2084,7 +2084,7 @@
         "name": "Pakistan"
       },
       {
-        "code": "BG",
+        "code": "BD",
         "name": "Bangladesh"
       }
     ]
@@ -2116,7 +2116,7 @@
     "deaths": 5520,
     "nations": [
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
@@ -2134,7 +2134,7 @@
     "deaths": 75000,
     "nations": [
       {
-        "code": "NI",
+        "code": "NG",
         "name": "Nigeria"
       }
     ]
@@ -2148,7 +2148,7 @@
     "deaths": 10000,
     "nations": [
       {
-        "code": "YM",
+        "code": "YE",
         "name": "Yemen"
       }
     ]
@@ -2162,7 +2162,7 @@
     "deaths": 6600,
     "nations": [
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       }
     ]
@@ -2176,11 +2176,11 @@
     "deaths": 2107,
     "nations": [
       {
-        "code": "HO",
+        "code": "HN",
         "name": "Honduras"
       },
       {
-        "code": "ES",
+        "code": "SV",
         "name": "El Salvador"
       }
     ]
@@ -2194,7 +2194,7 @@
     "deaths": 5413,
     "nations": [
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
@@ -2220,7 +2220,7 @@
     "deaths": 4027,
     "nations": [
       {
-        "code": "DR",
+        "code": "DO",
         "name": "Dominican Republic"
       },
       {
@@ -2242,7 +2242,7 @@
         "name": "United States"
       },
       {
-        "code": "CF",
+        "code": "CG",
         "name": "Congo"
       },
       {
@@ -2278,7 +2278,7 @@
     "deaths": 164923,
     "nations": [
       {
-        "code": "VM",
+        "code": "VN",
         "name": "Vietnam"
       },
       {
@@ -2296,7 +2296,7 @@
     "deaths": 2105,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
@@ -2318,7 +2318,7 @@
         "name": "France"
       },
       {
-        "code": "AG",
+        "code": "DZ",
         "name": "Algeria"
       }
     ]
@@ -2332,7 +2332,7 @@
     "deaths": 1394,
     "nations": [
       {
-        "code": "TS",
+        "code": "TN",
         "name": "Tunisia"
       },
       {
@@ -2396,7 +2396,7 @@
     "deaths": 2000,
     "nations": [
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       }
     ]
@@ -2428,7 +2428,7 @@
     "deaths": 16000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -2442,7 +2442,7 @@
     "deaths": 1400,
     "nations": [
       {
-        "code": "LE",
+        "code": "LB",
         "name": "Lebanon"
       }
     ]
@@ -2474,11 +2474,11 @@
         "name": "Malaysia"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       }
     ]
@@ -2492,7 +2492,7 @@
     "deaths": 2142,
     "nations": [
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
@@ -2504,7 +2504,7 @@
         "name": "France"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -2540,7 +2540,7 @@
         "name": "Kenya"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -2558,7 +2558,7 @@
         "name": "France"
       },
       {
-        "code": "TS",
+        "code": "TN",
         "name": "Tunisia"
       }
     ]
@@ -2572,7 +2572,7 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "MO",
+        "code": "MA",
         "name": "Morocco"
       },
       {
@@ -2580,7 +2580,7 @@
         "name": "France"
       },
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       }
     ]
@@ -2598,7 +2598,7 @@
         "name": "Taiwan"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
@@ -2616,7 +2616,7 @@
     "deaths": 9695,
     "nations": [
       {
-        "code": "RP",
+        "code": "PH",
         "name": "Philippines"
       }
     ]
@@ -2634,7 +2634,7 @@
         "name": "France"
       },
       {
-        "code": "VM",
+        "code": "VN",
         "name": "Vietnam"
       }
     ]
@@ -2652,19 +2652,19 @@
         "name": "United States"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
-        "code": "KN",
+        "code": "KP",
         "name": "North Korea"
       },
       {
-        "code": "KS",
+        "code": "KR",
         "name": "South Korea"
       },
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       }
     ]
@@ -2678,7 +2678,7 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "BL",
+        "code": "BO",
         "name": "Bolivia"
       }
     ]
@@ -2710,15 +2710,15 @@
         "name": "Soviet Union"
       },
       {
-        "code": "EN",
+        "code": "EE",
         "name": "Estonia"
       },
       {
-        "code": "LG",
+        "code": "LV",
         "name": "Latvia"
       },
       {
-        "code": "LH",
+        "code": "LT",
         "name": "Lithuania"
       }
     ]
@@ -2746,7 +2746,7 @@
     "deaths": 4000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -2760,7 +2760,7 @@
     "deaths": 17000,
     "nations": [
       {
-        "code": "KS",
+        "code": "KR",
         "name": "South Korea"
       }
     ]
@@ -2774,7 +2774,7 @@
     "deaths": 21111,
     "nations": [
       {
-        "code": "IS",
+        "code": "IL",
         "name": "Israel"
       },
       {
@@ -2794,7 +2794,7 @@
         "name": "Syria"
       },
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       }
     ]
@@ -2822,7 +2822,7 @@
     "deaths": 1200000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -2836,7 +2836,7 @@
     "deaths": 2000,
     "nations": [
       {
-        "code": "CS",
+        "code": "CR",
         "name": "Costa Rica"
       }
     ]
@@ -2868,7 +2868,7 @@
     "deaths": 4000,
     "nations": [
       {
-        "code": "YM",
+        "code": "YE",
         "name": "Yemen"
       }
     ]
@@ -2882,7 +2882,7 @@
     "deaths": 4009,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -2932,7 +2932,7 @@
         "name": "Taiwan"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -2946,7 +2946,7 @@
     "deaths": 6952,
     "nations": [
       {
-        "code": "MA",
+        "code": "MG",
         "name": "Madagascar"
       },
       {
@@ -2964,7 +2964,7 @@
     "deaths": 4000,
     "nations": [
       {
-        "code": "PA",
+        "code": "PY",
         "name": "Paraguay"
       }
     ]
@@ -2996,7 +2996,7 @@
     "deaths": 5400,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -3018,11 +3018,11 @@
     "deaths": 50000000,
     "nations": [
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -3038,11 +3038,11 @@
         "name": "Italy"
       },
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       },
       {
-        "code": "DA",
+        "code": "DK",
         "name": "Denmark"
       },
       {
@@ -3054,7 +3054,7 @@
         "name": "Soviet Union"
       },
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
@@ -3066,7 +3066,7 @@
         "name": "Finland"
       },
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       },
       {
@@ -3074,11 +3074,11 @@
         "name": "Poland"
       },
       {
-        "code": "AU",
+        "code": "AT",
         "name": "Austria"
       },
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       },
       {
@@ -3086,7 +3086,7 @@
         "name": "Greece"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
@@ -3102,7 +3102,7 @@
         "name": "India"
       },
       {
-        "code": "SF",
+        "code": "ZA",
         "name": "South Africa"
       },
       {
@@ -3110,7 +3110,7 @@
         "name": "Belgium"
       },
       {
-        "code": "EZ",
+        "code": "CZ",
         "name": "Czech Republic"
       },
       {
@@ -3130,7 +3130,7 @@
         "name": "Romania"
       },
       {
-        "code": "BU",
+        "code": "BG",
         "name": "Bulgaria"
       },
       {
@@ -3142,11 +3142,11 @@
         "name": "Thailand"
       },
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       },
       {
-        "code": "CS",
+        "code": "CR",
         "name": "Costa Rica"
       },
       {
@@ -3172,7 +3172,7 @@
         "name": "France"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -3186,11 +3186,11 @@
     "deaths": 1000000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       }
     ]
@@ -3222,7 +3222,7 @@
     "deaths": 28000,
     "nations": [
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
@@ -3240,7 +3240,7 @@
     "deaths": 2576,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -3254,7 +3254,7 @@
     "deaths": 10200,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -3268,11 +3268,11 @@
     "deaths": 466300,
     "nations": [
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       },
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       },
       {
@@ -3294,7 +3294,7 @@
     "deaths": 1726,
     "nations": [
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
@@ -3302,7 +3302,7 @@
         "name": "Soviet Union"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3334,11 +3334,11 @@
     "deaths": 92661,
     "nations": [
       {
-        "code": "PA",
+        "code": "PY",
         "name": "Paraguay"
       },
       {
-        "code": "BL",
+        "code": "BO",
         "name": "Bolivia"
       }
     ]
@@ -3352,7 +3352,7 @@
     "deaths": 500000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3366,7 +3366,7 @@
     "deaths": 1335,
     "nations": [
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       }
     ]
@@ -3384,7 +3384,7 @@
         "name": "Saudi Arabia"
       },
       {
-        "code": "YM",
+        "code": "YE",
         "name": "Yemen"
       }
     ]
@@ -3402,7 +3402,7 @@
         "name": "Soviet Union"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3416,11 +3416,11 @@
     "deaths": 60000,
     "nations": [
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3448,7 +3448,7 @@
     "deaths": 2600,
     "nations": [
       {
-        "code": "ES",
+        "code": "SV",
         "name": "El Salvador"
       }
     ]
@@ -3476,11 +3476,11 @@
     "deaths": 1140,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "BM",
+        "code": "MM",
         "name": "Myanmar (Burma)"
       }
     ]
@@ -3512,7 +3512,7 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "VM",
+        "code": "VN",
         "name": "Vietnam"
       },
       {
@@ -3544,7 +3544,7 @@
     "deaths": 75000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3562,7 +3562,7 @@
         "name": "Soviet Union"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3618,7 +3618,7 @@
     "deaths": 200000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3632,7 +3632,7 @@
     "deaths": 126500,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3664,7 +3664,7 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3678,7 +3678,7 @@
     "deaths": 70000,
     "nations": [
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       },
       {
@@ -3724,7 +3724,7 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "HO",
+        "code": "HN",
         "name": "Honduras"
       }
     ]
@@ -3752,7 +3752,7 @@
     "deaths": 20000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3766,7 +3766,7 @@
     "deaths": 4000,
     "nations": [
       {
-        "code": "EI",
+        "code": "IE",
         "name": "Ireland"
       }
     ]
@@ -3784,7 +3784,7 @@
         "name": "India"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -3816,7 +3816,7 @@
         "name": "Greece"
       },
       {
-        "code": "TU",
+        "code": "TR",
         "name": "Turkey"
       }
     ]
@@ -3830,11 +3830,11 @@
     "deaths": 802225,
     "nations": [
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -3842,7 +3842,7 @@
         "name": "France"
       },
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
@@ -3878,7 +3878,7 @@
     "deaths": 4000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
@@ -3896,11 +3896,11 @@
     "deaths": 9540,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "IZ",
+        "code": "IQ",
         "name": "Iraq"
       }
     ]
@@ -3932,7 +3932,7 @@
         "name": "France"
       },
       {
-        "code": "TU",
+        "code": "TR",
         "name": "Turkey"
       }
     ]
@@ -3946,7 +3946,7 @@
     "deaths": 35000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -3982,7 +3982,7 @@
         "name": "Poland"
       },
       {
-        "code": "LH",
+        "code": "LT",
         "name": "Lithuania"
       }
     ]
@@ -4028,7 +4028,7 @@
     "deaths": 2000,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -4050,15 +4050,15 @@
         "name": "Soviet Union"
       },
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       },
       {
-        "code": "LG",
+        "code": "LV",
         "name": "Latvia"
       },
       {
-        "code": "EN",
+        "code": "EE",
         "name": "Estonia"
       }
     ]
@@ -4080,7 +4080,7 @@
         "name": "Finland"
       },
       {
-        "code": "EN",
+        "code": "EE",
         "name": "Estonia"
       }
     ]
@@ -4098,7 +4098,7 @@
         "name": "United States"
       },
       {
-        "code": "HA",
+        "code": "HT",
         "name": "Haiti"
       }
     ]
@@ -4126,7 +4126,7 @@
     "deaths": 6000,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -4156,7 +4156,7 @@
     "deaths": 2170,
     "nations": [
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       }
     ]
@@ -4192,7 +4192,7 @@
         "name": "Afghanistan"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -4206,7 +4206,7 @@
     "deaths": 1500,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -4234,7 +4234,7 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -4248,11 +4248,11 @@
     "deaths": 10670868,
     "nations": [
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       },
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       },
       {
@@ -4260,7 +4260,7 @@
         "name": "France"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -4268,7 +4268,7 @@
         "name": "Italy"
       },
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       },
       {
@@ -4280,7 +4280,7 @@
         "name": "Hungary"
       },
       {
-        "code": "TU",
+        "code": "TR",
         "name": "Turkey"
       },
       {
@@ -4288,11 +4288,11 @@
         "name": "United States"
       },
       {
-        "code": "AU",
+        "code": "AT",
         "name": "Austria"
       },
       {
-        "code": "AN",
+        "code": "AD",
         "name": "Andorra"
       },
       {
@@ -4304,11 +4304,11 @@
         "name": "Brazil"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
-        "code": "CS",
+        "code": "CR",
         "name": "Costa Rica"
       },
       {
@@ -4316,7 +4316,7 @@
         "name": "Cuba"
       },
       {
-        "code": "CS",
+        "code": "CR",
         "name": "Costa Rica"
       },
       {
@@ -4324,23 +4324,23 @@
         "name": "Guatemala"
       },
       {
-        "code": "HA",
+        "code": "HT",
         "name": "Haiti"
       },
       {
-        "code": "HO",
+        "code": "HN",
         "name": "Honduras"
       },
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
-        "code": "LI",
+        "code": "LR",
         "name": "Liberia"
       },
       {
-        "code": "MW",
+        "code": "ME",
         "name": "Montenegro"
       },
       {
@@ -4348,15 +4348,15 @@
         "name": "Nepal"
       },
       {
-        "code": "NU",
+        "code": "NI",
         "name": "Nicaragua"
       },
       {
-        "code": "PM",
+        "code": "PA",
         "name": "Panama"
       },
       {
-        "code": "PO",
+        "code": "PT",
         "name": "Portugal"
       },
       {
@@ -4364,7 +4364,7 @@
         "name": "Romania"
       },
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       },
       {
@@ -4372,7 +4372,7 @@
         "name": "San Marino"
       },
       {
-        "code": "SR",
+        "code": "RS",
         "name": "Serbia"
       },
       {
@@ -4384,7 +4384,7 @@
         "name": "Canada"
       },
       {
-        "code": "AS",
+        "code": "AU",
         "name": "Australia"
       },
       {
@@ -4396,23 +4396,23 @@
         "name": "New Zealand"
       },
       {
-        "code": "SF",
+        "code": "ZA",
         "name": "South Africa"
       },
       {
-        "code": "RP",
+        "code": "PH",
         "name": "Philippines"
       },
       {
-        "code": "RQ",
+        "code": "PR",
         "name": "Puerto Rico"
       },
       {
-        "code": "AJ",
+        "code": "AZ",
         "name": "Azerbaijan"
       },
       {
-        "code": "BU",
+        "code": "BG",
         "name": "Bulgaria"
       },
       {
@@ -4456,7 +4456,7 @@
     "deaths": 5000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -4478,7 +4478,7 @@
         "name": "Greece"
       },
       {
-        "code": "BU",
+        "code": "BG",
         "name": "Bulgaria"
       },
       {
@@ -4500,7 +4500,7 @@
     "deaths": 5000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -4528,11 +4528,11 @@
     "deaths": 82000,
     "nations": [
       {
-        "code": "SR",
+        "code": "RS",
         "name": "Serbia"
       },
       {
-        "code": "MW",
+        "code": "ME",
         "name": "Montenegro"
       },
       {
@@ -4540,7 +4540,7 @@
         "name": "Greece"
       },
       {
-        "code": "BU",
+        "code": "BG",
         "name": "Bulgaria"
       },
       {
@@ -4562,7 +4562,7 @@
     "deaths": 2000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -4576,7 +4576,7 @@
     "deaths": 5000,
     "nations": [
       {
-        "code": "PA",
+        "code": "PY",
         "name": "Paraguay"
       }
     ]
@@ -4590,7 +4590,7 @@
     "deaths": 20000,
     "nations": [
       {
-        "code": "IL",
+        "code": "idk: was IL",
         "name": ""
       },
       {
@@ -4626,7 +4626,7 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -4640,7 +4640,7 @@
     "deaths": 9000,
     "nations": [
       {
-        "code": "YM",
+        "code": "YE",
         "name": "Yemen"
       },
       {
@@ -4662,7 +4662,7 @@
         "name": "France"
       },
       {
-        "code": "CD",
+        "code": "TD",
         "name": "Chad"
       }
     ]
@@ -4676,11 +4676,11 @@
     "deaths": 10000,
     "nations": [
       {
-        "code": "MO",
+        "code": "MA",
         "name": "Morocco"
       },
       {
-        "code": "SP",
+        "code": "ES",
         "name": "Spain"
       }
     ]
@@ -4716,7 +4716,7 @@
         "name": "France"
       },
       {
-        "code": "MO",
+        "code": "MA",
         "name": "Morocco"
       }
     ]
@@ -4731,10 +4731,10 @@
     "nations": [
       {
         "code": "JP",
-        "name": ""
+        "name": "Japan"
       },
       {
-        "code": "KS",
+        "code": "KR",
         "name": "South Korea"
       }
     ]
@@ -4752,7 +4752,7 @@
         "name": "Iran"
       },
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       }
     ]
@@ -4766,7 +4766,7 @@
     "deaths": 1400,
     "nations": [
       {
-        "code": "MO",
+        "code": "MA",
         "name": "Morocco"
       },
       {
@@ -4784,15 +4784,15 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "HO",
+        "code": "HN",
         "name": "Honduras"
       },
       {
-        "code": "ES",
+        "code": "SV",
         "name": "El Salvador"
       },
       {
-        "code": "NU",
+        "code": "NI",
         "name": "Nicaragua"
       }
     ]
@@ -4834,7 +4834,7 @@
     "deaths": 2356,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       }
     ]
@@ -4848,11 +4848,11 @@
     "deaths": 2080,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "NI",
+        "code": "NG",
         "name": "Nigeria"
       }
     ]
@@ -4866,11 +4866,11 @@
     "deaths": 1000,
     "nations": [
       {
-        "code": "HO",
+        "code": "HN",
         "name": "Honduras"
       },
       {
-        "code": "ES",
+        "code": "SV",
         "name": "El Salvador"
       },
       {
@@ -4888,7 +4888,7 @@
     "deaths": 1500,
     "nations": [
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       }
     ]
@@ -4902,7 +4902,7 @@
     "deaths": 8840,
     "nations": [
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       },
       {
@@ -4920,7 +4920,7 @@
     "deaths": 12800,
     "nations": [
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       }
     ]
@@ -4934,11 +4934,11 @@
     "deaths": 151831,
     "nations": [
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       }
     ]
@@ -4984,7 +4984,7 @@
         "name": "Angola"
       },
       {
-        "code": "PO",
+        "code": "PT",
         "name": "Portugal"
       }
     ]
@@ -5026,7 +5026,7 @@
     "deaths": 20500,
     "nations": [
       {
-        "code": "RP",
+        "code": "PH",
         "name": "Philippines"
       },
       {
@@ -5044,7 +5044,7 @@
     "deaths": 30800,
     "nations": [
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
@@ -5062,11 +5062,11 @@
     "deaths": 4000,
     "nations": [
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       },
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       }
     ]
@@ -5080,19 +5080,19 @@
     "deaths": 3003,
     "nations": [
       {
-        "code": "CH",
+        "code": "CN",
         "name": "China"
       },
       {
-        "code": "UK",
+        "code": "GB",
         "name": "United Kingdom"
       },
       {
-        "code": "JA",
+        "code": "JP",
         "name": "Japan"
       },
       {
-        "code": "RS",
+        "code": "RU",
         "name": "Russia"
       },
       {
@@ -5104,7 +5104,7 @@
         "name": "United States"
       },
       {
-        "code": "GM",
+        "code": "DE",
         "name": "Germany"
       },
       {

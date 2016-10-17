@@ -69,7 +69,10 @@ gulp.task('war-data', function () {
 
 							const nations = $('.factbox a[title="Other wars for this nation"]');
 							war.nations = nations.map(function () {
-								return /land=([A-Z]{2})&/.exec($(this).attr('href'))[1];
+								return {
+									code: /land=([A-Z]{2})&/.exec($(this).attr('href'))[1],
+									name: $(this).text()
+								};
 							}).get();
 
 							wars.push(war);
@@ -79,14 +82,14 @@ gulp.task('war-data', function () {
 						.then(function (...args) {
 							// Add a little delay so we don't hurt anyone
 							return new Promise(function (resolve) {
-								setTimeout(() => resolve(...args), 500);
+								setTimeout(() => resolve(...args), 200);
 							});
 						});
 				});
 			}, Promise.resolve([]));
 		})
 		.then(function (wars) {
-			return JSON.stringify(wars);
+			return JSON.stringify(wars, null, 2);
 		});
 
 	return streamFromPromise(promise)

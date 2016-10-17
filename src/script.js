@@ -33,23 +33,25 @@ Promise.all([ mapDataRequest, warDataRequest ])
 
 		topoLayer.eachLayer(function (layer) {
 			const inWars = warData.filter(function (war) {
-				return war.nations.includes(layer.feature.id);
+				return war.nations.find(function (nation) {
+					return nation.code === layer.feature.id;
+				});
 			});
 
 			const countriesAffected = {};
 
 			inWars.forEach(function (war) {
-				war.nations.forEach(function (country) {
+				war.nations.forEach(function (nation) {
 					// Don't include self
-					if (country === layer.feature.id) {
+					if (nation.code === layer.feature.id) {
 						return;
 					}
 
-					if (!countriesAffected[country]) {
-						countriesAffected[country] = 0;
+					if (!countriesAffected[nation.code]) {
+						countriesAffected[nation.code] = 0;
 					}
 
-					countriesAffected[country] += war.deaths;
+					countriesAffected[nation.code] += war.deaths;
 				});
 			});
 
