@@ -13,7 +13,7 @@ Promise.all([ mapDataRequest, warDataRequest ])
 
 		const colorScale = chroma
 			.scale(['#ffd8d8', '#ff6464'])
-			.domain([0, 50000000]);
+			.domain([0, 2000000]);
 
 		const map = L.map('world').setView([45, 0], 2);
 		const topoLayer = new L.GeoJSON(undefined, {
@@ -31,7 +31,15 @@ Promise.all([ mapDataRequest, warDataRequest ])
 			topoLayer.addData(geojson);
 		}
 
+		// Find world war II
+		const ww2 = warData.find(({ name }) => name === 'World War II');
+
 		topoLayer.eachLayer(function (layer) {
+			layer.setStyle({
+				fillColor: colorScale(ww2.deaths_in[layer.feature.id])
+			});
+
+
 			const inWars = warData.filter(function (war) {
 				return war.nations.find(function (nation) {
 					return nation.code === layer.feature.id;
